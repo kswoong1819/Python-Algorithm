@@ -1,9 +1,7 @@
 def lonely(num_list):
     result_list = [num_list[0]]
     for i in num_list:
-        if result_list[-1] == i:
-            continue
-        else:
+        if result_list[-1] != i:
             result_list.append(i)
     return result_list
         
