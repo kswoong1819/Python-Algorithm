@@ -1,132 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/practice/2020_02/20200203/snail.py" line="19" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200203/snail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200203/sum_02List2(2월3일).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/1288. 새로운 불면증 치료법.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/1989. 초심자의 회문 검사.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/TIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TIL.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200121/add_digits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200121/calendar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200121/find_average.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200121/find_max.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200121/only_odd_plus.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200121/tall_low_same.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200122/alpa_change_digit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200122/find_center_num.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200124/apla_ch_num.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200124/calculrate.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200124/divmod.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200124/find_password.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200124/giagonle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200124/headline.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200124/stamp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200127/N_add.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200127/double_double.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200127/reverse_word.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200127/rock_paper_scissors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200127/submultiple.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200129/eng_name.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200129/fruits_count.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200129/remove_vowels.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/abs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/all.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/any.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/calendar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/car_sharing_fee.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/collatz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/factorial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/fibo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/find_center.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/gugudan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/login_check.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/phone_number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/prime_number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/solo_heaven.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/start_end.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/strange_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/sw expert/factorization.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/sw expert/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/sw expert/millionaire_project(D2.1859).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/sw expert/zig_zeg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200130/tax.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200202/HackerRank/Day 10_Binary Numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200202/HackerRank/Day 11_2D Arrays.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200202/HackerRank/Day 9_Recursion 3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200202/SW Expert/1928_Base64 Decoder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/20200202/SW Expert/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/practice.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="2123845893">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="19" />
-          <entry key="txt" value="14" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="19" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="22" />
-          <entry key="py" value="7168" />
-          <entry key="txt" value="41" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="63" />
-          <entry key="Python" value="7168" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/1204_최빈수.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="51" lean-forward="true" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
-              <folding>
-                <marker date="1580726955264" expanded="true" signature="166:168" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -138,78 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/practice/20200203/practice.py" />
-        <option value="$PROJECT_DIR$/practice/20200203/painting.4836.py" />
-        <option value="$PROJECT_DIR$/practice/20200203/list_2 문제/painting.4836.py" />
-        <option value="$PROJECT_DIR$/practice/20200203/list_2 문제/4837.py" />
-        <option value="$PROJECT_DIR$/practice/20200203/list_2 문제/subset.4837.py" />
-        <option value="$PROJECT_DIR$/practice/20200203/input.txt" />
-        <option value="$PROJECT_DIR$/practice/20200203/class.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200203/class.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200203/sum_02List2(2월3일).py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200203/input.txt" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200203/snail.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/input.txt" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/1204_최빈수.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
-  </component>
   <component name="ProjectId" id="1X4BY8vetLf6XERJaMWZJSui41W" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_02" type="462c0819:PsiDirectoryNode" />
-              <item name="20200203" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_02" type="462c0819:PsiDirectoryNode" />
-              <item name="20200203" type="462c0819:PsiDirectoryNode" />
-              <item name="SW Expert" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -228,19 +46,28 @@
       <recent name="C:\Users\multicampus\Desktop\TIL\TIL\practice\20200203\list_2 문제" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.1204_최빈수">
+  <component name="RunManager" selected="Python.1989. 초심자의 회문 검사">
+    <configuration name="05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../study_report/study_report/exam_" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../study_report/study_report/exam_/05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1204_최빈수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1288. 새로운 불면증 치료법" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200203" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200203/SW Expert" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200203/class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/1288. 새로운 불면증 치료법.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1989. 초심자의 회문 검사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/20200203" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200203/SW Expert" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/20200203/class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/1989. 초심자의 회문 검사.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="snail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,32 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200203" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200203/snail.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sum_02List2(2월3일)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200203" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200203/sum_02List2(2월3일).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,19 +153,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.class" />
-      <item itemvalue="Python.class (1)" />
       <item itemvalue="Python.1204_최빈수" />
-      <item itemvalue="Python.sum_02List2(2월3일)" />
-      <item itemvalue="Python.snail" />
+      <item itemvalue="Python.practice" />
+      <item itemvalue="Python.05" />
+      <item itemvalue="Python.1288. 새로운 불면증 치료법" />
+      <item itemvalue="Python.1989. 초심자의 회문 검사" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1989. 초심자의 회문 검사" />
+        <item itemvalue="Python.1288. 새로운 불면증 치료법" />
+        <item itemvalue="Python.practice" />
+        <item itemvalue="Python.05" />
         <item itemvalue="Python.1204_최빈수" />
-        <item itemvalue="Python.snail" />
-        <item itemvalue="Python.sum_02List2(2월3일)" />
-        <item itemvalue="Python.class (1)" />
-        <item itemvalue="Python.class" />
       </list>
     </recent_temporary>
   </component>
@@ -388,68 +194,47 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33114034" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.24429968" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="WindowStateProjectService">
-    <state width="645" height="167" key="GridCell.Tab.0.bottom" timestamp="1580636351775">
+    <state width="645" height="137" key="GridCell.Tab.0.bottom" timestamp="1580744079362">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580636351775" />
-    <state width="645" height="167" key="GridCell.Tab.0.center" timestamp="1580636351774">
+    <state width="645" height="137" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580744079362" />
+    <state width="645" height="137" key="GridCell.Tab.0.center" timestamp="1580744079362">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580636351774" />
-    <state width="645" height="167" key="GridCell.Tab.0.left" timestamp="1580636351774">
+    <state width="645" height="137" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580744079362" />
+    <state width="645" height="137" key="GridCell.Tab.0.left" timestamp="1580744079362">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580636351774" />
-    <state width="645" height="167" key="GridCell.Tab.0.right" timestamp="1580636351774">
+    <state width="645" height="137" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580744079362" />
+    <state width="645" height="137" key="GridCell.Tab.0.right" timestamp="1580744079362">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580636351774" />
-    <state width="645" height="212" key="GridCell.Tab.1.bottom" timestamp="1580635474865">
+    <state width="645" height="137" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580744079362" />
+    <state width="645" height="137" key="GridCell.Tab.1.bottom" timestamp="1580744079362">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="212" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580635474865" />
-    <state width="645" height="212" key="GridCell.Tab.1.center" timestamp="1580635474865">
+    <state width="645" height="137" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580744079362" />
+    <state width="645" height="137" key="GridCell.Tab.1.center" timestamp="1580744079362">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="212" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580635474865" />
-    <state width="645" height="212" key="GridCell.Tab.1.left" timestamp="1580635474864">
+    <state width="645" height="137" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580744079362" />
+    <state width="645" height="137" key="GridCell.Tab.1.left" timestamp="1580744079362">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="212" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580635474864" />
-    <state width="645" height="212" key="GridCell.Tab.1.right" timestamp="1580635474865">
+    <state width="645" height="137" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580744079362" />
+    <state width="645" height="137" key="GridCell.Tab.1.right" timestamp="1580744079362">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="212" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580635474865" />
-    <state x="368" y="0" key="SettingsEditor" timestamp="1580628171425">
+    <state width="645" height="137" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580744079362" />
+    <state x="368" y="0" key="SettingsEditor" timestamp="1580735514511">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="368" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580628171425" />
+    <state x="368" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580735514511" />
+    <state x="324" y="79" width="700" height="530" key="recent.locations.popup" timestamp="1580737514716">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="324" y="79" width="700" height="530" key="recent.locations.popup/0.0.1366.728@0.0.1366.728" timestamp="1580737514716" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -458,136 +243,12 @@
           <url>file://$PROJECT_DIR$/practice/20200130/all.py</url>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/1288. 새로운 불면증 치료법.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/20200202/SW Expert/1928_Base64 Decoder.py" />
-    <entry file="file://$PROJECT_DIR$/practice/20200203/list_2 문제/painting.4836.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/20200203/list_2 문제/sample_input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/20200202/HackerRank/Day 11_2D Arrays.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/20200202/HackerRank/Day 10_Binary Numbers.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/20200202/HackerRank/Day 9_Recursion 3.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/20200203/class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="749">
-          <caret line="173" selection-start-line="173" selection-end-line="173" />
-          <folding>
-            <element signature="e#66#864#0" />
-            <element signature="e#2521#2957#0" />
-            <element signature="e#3478#3831#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/20200203/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/20200203/SW Expert/1928_Base64 Decoder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/20200203/list_2 문제/subset.4837.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200203/class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="256" column="1" selection-start-line="256" selection-start-column="1" selection-end-line="256" selection-end-column="1" />
-          <folding>
-            <element signature="e#66#864#0" />
-            <element signature="e#870#1248#0" />
-            <element signature="e#1259#2512#0" />
-            <element signature="e#2521#2957#0" />
-            <element signature="e#2965#3262#0" />
-            <element signature="e#3273#3465#0" />
-            <element signature="e#3478#3831#0" />
-            <element signature="e#3844#5110#1" />
-            <marker date="1580717041082" expanded="true" signature="4560:4567" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200203/sum_02List2(2월3일).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Python35/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200203/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200203/snail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/1204_최빈수.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="51" lean-forward="true" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
-          <folding>
-            <marker date="1580726955264" expanded="true" signature="166:168" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
