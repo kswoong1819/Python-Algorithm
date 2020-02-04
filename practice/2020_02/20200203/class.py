@@ -252,6 +252,3 @@ for i in range(1<<n):
 # else:
 #     print(cnt,'못찾음')
 '''# 순차 검색
-
-
-#
