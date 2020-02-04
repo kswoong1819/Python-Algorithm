@@ -2,97 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200203/선택 정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200204/7일차_금속막대_김성웅.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1284_수도요금경쟁_D2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1285_아름이의 돌 던지기_D2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1959_두 개의 숫자열_D2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1961_숫자 배열 회전_D2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/2001_파리 퇴치_D2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/2007_패턴 마디의 길이_D2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200204/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200204/list2 문제/4837_부분집합의합_김성웅.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200204/list2 문제/4839_이진탐색_김성웅.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200204/list2 문제/4843_특별한정렬_김성웅.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/TIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TIL.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/1204_최빈수.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/1204_최빈수_D2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/1288. 새로운 불면증 치료법.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/1288_새로운 불면증 치료법_D2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/1989. 초심자의 회문 검사.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/1989_초심자의 회문 검사_D2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200203/class.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200203/class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200203/list_2 문제/subset.4837.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200203/snail.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200203/snail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200203/sum_02List2(2월3일).py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200203/sum_02List2(2월3일).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200204/7일차_금속막대_김성웅.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200204/7일차_금속막대_김성웅.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200204/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200204/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/practice.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="2123845893">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="33" />
-          <entry key="txt" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="33" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="26" />
-          <entry key="py" value="4806" />
-          <entry key="txt" value="85" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="111" />
-          <entry key="Python" value="4806" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/7일차_금속막대_김성웅.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-              <folding>
-                <marker date="1580806719979" expanded="true" signature="47:49" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -104,85 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/practice/2020_02/20200203/snail.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200203/sum_02List2(2월3일).py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200204/subset.4837.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200204/list2 문제/4837_부분집합의합_김성웅.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200204/list2 문제/4839_이진탐색_김성웅.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200203/선택 정렬.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200204/list2 문제/input.txt" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200204/list2 문제/4843_특별한정렬_김성웅.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1284_수도요금경쟁_D2.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1959_두 개의 숫자열_D2.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200203/class.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/2007_패턴 마디의 길이_D2.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1961_숫자 배열 회전_D2.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/2001_파리 퇴치_D2.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/input.txt" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1285_아름이의 돌 던지기_D2.py" />
-        <option value="$PROJECT_DIR$/practice/input.txt" />
-        <option value="$PROJECT_DIR$/practice/practice.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200204/input.txt" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200204/7일차_금속막대_김성웅.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
-  </component>
   <component name="ProjectId" id="1X4BY8vetLf6XERJaMWZJSui41W" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_02" type="462c0819:PsiDirectoryNode" />
-              <item name="20200204" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_02" type="462c0819:PsiDirectoryNode" />
-              <item name="20200204" type="462c0819:PsiDirectoryNode" />
-              <item name="list2 문제" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -203,18 +48,6 @@
       <recent name="C:\Users\multicampus\Desktop\TIL\TIL\practice\2020_02\20200204" />
       <recent name="C:\Users\multicampus\Desktop\TIL\TIL\practice\20200203\list_2 문제" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.7일차_금속막대_김성웅">
     <configuration name="1961_숫자 배열 회전_D2" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -332,8 +165,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.7일차_금속막대_김성웅" />
-        <item itemvalue="Python.4839_이진탐색_김성웅" />
         <item itemvalue="Python.practice" />
+        <item itemvalue="Python.4839_이진탐색_김성웅" />
         <item itemvalue="Python.2001_파리 퇴치_D2" />
         <item itemvalue="Python.1961_숫자 배열 회전_D2" />
       </list>
@@ -364,68 +197,47 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2905983" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33114034" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.23684211" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="WindowStateProjectService">
-    <state width="645" height="137" key="GridCell.Tab.0.bottom" timestamp="1580744079362">
+    <state width="1344" height="159" key="GridCell.Tab.0.bottom" timestamp="1580831524441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="137" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580744079362" />
-    <state width="645" height="137" key="GridCell.Tab.0.center" timestamp="1580744079362">
+    <state width="1344" height="159" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580831524441" />
+    <state width="1344" height="159" key="GridCell.Tab.0.center" timestamp="1580831524441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="137" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580744079362" />
-    <state width="645" height="137" key="GridCell.Tab.0.left" timestamp="1580744079362">
+    <state width="1344" height="159" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580831524441" />
+    <state width="1344" height="159" key="GridCell.Tab.0.left" timestamp="1580831524441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="137" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580744079362" />
-    <state width="645" height="137" key="GridCell.Tab.0.right" timestamp="1580744079362">
+    <state width="1344" height="159" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580831524441" />
+    <state width="1344" height="159" key="GridCell.Tab.0.right" timestamp="1580831524441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="137" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580744079362" />
-    <state width="645" height="137" key="GridCell.Tab.1.bottom" timestamp="1580744079362">
+    <state width="1344" height="159" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580831524441" />
+    <state width="1344" height="159" key="GridCell.Tab.1.bottom" timestamp="1580831524442">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="137" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580744079362" />
-    <state width="645" height="137" key="GridCell.Tab.1.center" timestamp="1580744079362">
+    <state width="1344" height="159" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580831524442" />
+    <state width="1344" height="159" key="GridCell.Tab.1.center" timestamp="1580831524441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="137" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580744079362" />
-    <state width="645" height="137" key="GridCell.Tab.1.left" timestamp="1580744079362">
+    <state width="1344" height="159" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580831524441" />
+    <state width="1344" height="159" key="GridCell.Tab.1.left" timestamp="1580831524441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="137" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580744079362" />
-    <state width="645" height="137" key="GridCell.Tab.1.right" timestamp="1580744079362">
+    <state width="1344" height="159" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580831524441" />
+    <state width="1344" height="159" key="GridCell.Tab.1.right" timestamp="1580831524441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="137" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580744079362" />
-    <state x="368" y="0" key="SettingsEditor" timestamp="1580735514511">
+    <state width="1344" height="159" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580831524441" />
+    <state x="368" y="0" key="SettingsEditor" timestamp="1580816052085">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="368" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580735514511" />
+    <state x="368" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580816052085" />
+    <state x="330" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580823592194">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="330" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1580823592194" />
     <state x="324" y="79" width="700" height="530" key="recent.locations.popup" timestamp="1580737514716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -450,182 +262,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200203/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/1288_새로운 불면증 치료법_D2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200203/snail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_01/20200130/prime_number.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200203/sum_02List2(2월3일).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="66" column="12" lean-forward="true" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/list2 문제/4837_부분집합의합_김성웅.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200203/선택 정렬.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          <folding>
-            <marker date="1580783385500" expanded="true" signature="21:26" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/list2 문제/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200203/list_2 문제/4836_색칠하기_김성웅.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1959_두 개의 숫자열_D2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200203/class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="254" selection-start-line="254" selection-end-line="254" />
-          <folding>
-            <element signature="e#66#864#0" />
-            <element signature="e#873#1251#0" />
-            <element signature="e#1262#2515#0" />
-            <element signature="e#2524#2960#0" />
-            <element signature="e#2968#3265#0" />
-            <element signature="e#3276#3468#0" />
-            <element signature="e#3481#3834#0" />
-            <element signature="e#3844#5109#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/2007_패턴 마디의 길이_D2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Python35/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="319" selection-start-line="319" selection-end-line="319" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1961_숫자 배열 회전_D2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/2001_파리 퇴치_D2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1285_아름이의 돌 던지기_D2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/list2 문제/4839_이진탐색_김성웅.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <marker date="1580780732466" expanded="true" signature="327:328" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/practice.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1284_수도요금경쟁_D2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/list2 문제/4843_특별한정렬_김성웅.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/7일차_금속막대_김성웅.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding>
-            <marker date="1580806719979" expanded="true" signature="47:49" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
