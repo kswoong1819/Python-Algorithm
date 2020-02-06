@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/TIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TIL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200206/SW Expert/1860_진기의 최고급 붕어빵_D2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200206/SW Expert/2005_파스칼의 삼각형_D2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200206/solving club/1211_Ladder2_복습.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200206/solving club/4615_재미있는 오셀로 게임_복습.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200204/7일차_금속막대_김성웅.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200204/7일차_금속막대_김성웅.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200204/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200204/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/asd.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +48,8 @@
       <recent name="C:\Users\multicampus\Desktop\TIL\TIL\practice\20200203\list_2 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7일차_금속막대_김성웅">
-    <configuration name="1961_숫자 배열 회전_D2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2005_파스칼의 삼각형_D2">
+    <configuration name="1211_Ladder2_복습" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +57,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200206/solving club" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1961_숫자 배열 회전_D2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200206/solving club/1211_Ladder2_복습.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2001_파리 퇴치_D2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1860_진기의 최고급 붕어빵_D2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200206/SW Expert" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/2001_파리 퇴치_D2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200206/SW Expert/1860_진기의 최고급 붕어빵_D2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +91,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4839_이진탐색_김성웅" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2005_파스칼의 삼각형_D2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200206/SW Expert" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200206/SW Expert/2005_파스칼의 삼각형_D2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4615_재미있는 오셀로 게임_복습" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200206/solving club" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200206/solving club/4615_재미있는 오셀로 게임_복습.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="asd2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,49 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\TIL\TIL\practice\2020_02\20200204\list2 문제\4839_이진탐색_김성웅.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="7일차_금속막대_김성웅" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200204" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200204/7일차_금속막대_김성웅.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/asd2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,19 +155,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.practice" />
-      <item itemvalue="Python.1961_숫자 배열 회전_D2" />
-      <item itemvalue="Python.2001_파리 퇴치_D2" />
-      <item itemvalue="Python.4839_이진탐색_김성웅" />
-      <item itemvalue="Python.7일차_금속막대_김성웅" />
+      <item itemvalue="Python.1211_Ladder2_복습" />
+      <item itemvalue="Python.4615_재미있는 오셀로 게임_복습" />
+      <item itemvalue="Python.asd2" />
+      <item itemvalue="Python.1860_진기의 최고급 붕어빵_D2" />
+      <item itemvalue="Python.2005_파스칼의 삼각형_D2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.7일차_금속막대_김성웅" />
-        <item itemvalue="Python.practice" />
-        <item itemvalue="Python.4839_이진탐색_김성웅" />
-        <item itemvalue="Python.2001_파리 퇴치_D2" />
-        <item itemvalue="Python.1961_숫자 배열 회전_D2" />
+        <item itemvalue="Python.2005_파스칼의 삼각형_D2" />
+        <item itemvalue="Python.1860_진기의 최고급 붕어빵_D2" />
+        <item itemvalue="Python.4615_재미있는 오셀로 게임_복습" />
+        <item itemvalue="Python.asd2" />
+        <item itemvalue="Python.1211_Ladder2_복습" />
       </list>
     </recent_temporary>
   </component>
@@ -198,38 +197,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1344" height="159" key="GridCell.Tab.0.bottom" timestamp="1580831524441">
+    <state width="1344" height="148" key="GridCell.Tab.0.bottom" timestamp="1581004669111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="159" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580831524441" />
-    <state width="1344" height="159" key="GridCell.Tab.0.center" timestamp="1580831524441">
+    <state width="1344" height="148" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581004669111" />
+    <state width="1344" height="148" key="GridCell.Tab.0.center" timestamp="1581004669111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="159" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580831524441" />
-    <state width="1344" height="159" key="GridCell.Tab.0.left" timestamp="1580831524441">
+    <state width="1344" height="148" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581004669111" />
+    <state width="1344" height="148" key="GridCell.Tab.0.left" timestamp="1581004669110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="159" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580831524441" />
-    <state width="1344" height="159" key="GridCell.Tab.0.right" timestamp="1580831524441">
+    <state width="1344" height="148" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581004669110" />
+    <state width="1344" height="148" key="GridCell.Tab.0.right" timestamp="1581004669111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="159" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580831524441" />
-    <state width="1344" height="159" key="GridCell.Tab.1.bottom" timestamp="1580831524442">
+    <state width="1344" height="148" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581004669111" />
+    <state width="1344" height="148" key="GridCell.Tab.1.bottom" timestamp="1581004669111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="159" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580831524442" />
-    <state width="1344" height="159" key="GridCell.Tab.1.center" timestamp="1580831524441">
+    <state width="1344" height="148" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581004669111" />
+    <state width="1344" height="148" key="GridCell.Tab.1.center" timestamp="1581004669111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="159" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580831524441" />
-    <state width="1344" height="159" key="GridCell.Tab.1.left" timestamp="1580831524441">
+    <state width="1344" height="148" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1581004669111" />
+    <state width="1344" height="148" key="GridCell.Tab.1.left" timestamp="1581004669111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="159" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580831524441" />
-    <state width="1344" height="159" key="GridCell.Tab.1.right" timestamp="1580831524441">
+    <state width="1344" height="148" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1581004669111" />
+    <state width="1344" height="148" key="GridCell.Tab.1.right" timestamp="1581004669111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="159" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580831524441" />
+    <state width="1344" height="148" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581004669111" />
     <state x="368" y="0" key="SettingsEditor" timestamp="1580816052085">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
