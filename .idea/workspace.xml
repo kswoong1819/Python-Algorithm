@@ -2,81 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/1234_비밀번호_D3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/1966_숫자를 정렬하자_D2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/2805_농작물 수확하기_D3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/5603_건초더미_D3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200207/Solving Club/1493_수의 새로운 연산.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200207/Solving Club/1979_어디에 단어가 들어갈 수 있을까_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200207/Solving Club/6109_추억의 2048게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200208/4047_영준이의 카드 카운팅.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200208/4751_다솔이의 다이아몬드 장식.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200208/5356_의석이의 세로로 말해요.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200208/6190_정곤이의 단조 증가하는 수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200208/list_1/1206_View.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200208/list_1/1208_Flatten.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200208/list_1/1209_Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200208/list_1/baby-gin_Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200208/list_1/연습문제1_gravity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200208/list_2/1259_금속막대.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200208/list_2/1954_달팽이 숫자.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200208/list_2/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/TIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TIL.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200204/7일차_금속막대_김성웅.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200204/7일차_금속막대_김성웅.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/asd.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="2123845893">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="19" />
-          <entry key="txt" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="19" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="1" />
-          <entry key="py" value="5837" />
-          <entry key="txt" value="115" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="116" />
-          <entry key="Python" value="5837" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/5603_건초더미_D3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -88,77 +36,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1959_두 개의 숫자열_D2.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200207/Solving Club/1979_어디에 단어가 들어갈 수 있을까.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200207/Solving Club/1979_어디에 단어가 들어갈 수 있을까_2.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200207/Solving Club/1493_수의 새로운 연산.py" />
-        <option value="$PROJECT_DIR$/practice/asd.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200207/Solving Club/input.txt" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200207/Solving Club/6109_추억의 2048게임.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/1966_숫자를 정렬하자_D2.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/1234_비밀번호_D2.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/2805_농작물 수확하기_D3.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/input.txt" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/5603_건초더미_D3.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
-  </component>
   <component name="ProjectId" id="1X4BY8vetLf6XERJaMWZJSui41W" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_02" type="462c0819:PsiDirectoryNode" />
-              <item name="20200207" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_02" type="462c0819:PsiDirectoryNode" />
-              <item name="20200207" type="462c0819:PsiDirectoryNode" />
-              <item name="SW Expert" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -169,31 +49,20 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../study_report/study_report/algorithm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hi\Desktop\TIL\TIL\practice\2020_02\20200208" />
+      <recent name="C:\Users\Hi\Desktop\TIL\TIL\practice\2020_02\20200208\list_2" />
       <recent name="C:\Users\multicampus\Desktop\TIL\TIL\practice\2020_02\20200204\list2 문제" />
       <recent name="C:\Users\multicampus\Desktop\TIL\TIL\practice" />
       <recent name="C:\Users\multicampus\Desktop\TIL\TIL\practice\2020_02\20200204" />
-      <recent name="C:\Users\multicampus\Desktop\TIL\TIL\practice\20200203\list_2 문제" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.5603_건초더미_D3">
-    <configuration name="1234_비밀번호_D2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.5356_의석이의 세로로 말해요">
+    <configuration name="4047_영준이의 카드 카운팅" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200207/SW Expert" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200208" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\TIL\TIL\practice\2020_02\20200207\SW Expert\1234_비밀번호_D3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200208/4047_영준이의 카드 카운팅.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1966_숫자를 정렬하자_D2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4751_다솔이의 다이아몬드 장식" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200207/SW Expert" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200208/list_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/1966_숫자를 정렬하자_D2.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Hi\Desktop\TIL\TIL\practice\2020_02\20200208\4751_다솔이의 다이아몬드 장식.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2805_농작물 수확하기_D3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5356_의석이의 세로로 말해요" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200207/SW Expert" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200208" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/2805_농작물 수확하기_D3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200208/5356_의석이의 세로로 말해요.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5603_건초더미_D3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6190_정곤이의 단조 증가하는 수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200207/SW Expert" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200208" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/5603_건초더미_D3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200208/6190_정곤이의 단조 증가하는 수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6109_추억의 2048게임" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="asd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200207/Solving Club" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200207/Solving Club/6109_추억의 2048게임.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/asd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,19 +168,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.6109_추억의 2048게임" />
-      <item itemvalue="Python.1966_숫자를 정렬하자_D2" />
-      <item itemvalue="Python.1234_비밀번호_D2" />
-      <item itemvalue="Python.2805_농작물 수확하기_D3" />
-      <item itemvalue="Python.5603_건초더미_D3" />
+      <item itemvalue="Python.asd" />
+      <item itemvalue="Python.6190_정곤이의 단조 증가하는 수" />
+      <item itemvalue="Python.4751_다솔이의 다이아몬드 장식" />
+      <item itemvalue="Python.4047_영준이의 카드 카운팅" />
+      <item itemvalue="Python.5356_의석이의 세로로 말해요" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5603_건초더미_D3" />
-        <item itemvalue="Python.2805_농작물 수확하기_D3" />
-        <item itemvalue="Python.1234_비밀번호_D2" />
-        <item itemvalue="Python.1966_숫자를 정렬하자_D2" />
-        <item itemvalue="Python.6109_추억의 2048게임" />
+        <item itemvalue="Python.5356_의석이의 세로로 말해요" />
+        <item itemvalue="Python.4047_영준이의 카드 카운팅" />
+        <item itemvalue="Python.4751_다솔이의 다이아몬드 장식" />
+        <item itemvalue="Python.asd" />
+        <item itemvalue="Python.6190_정곤이의 단조 증가하는 수" />
       </list>
     </recent_temporary>
   </component>
@@ -340,68 +209,47 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27884614" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3399123" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37719297" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="WindowStateProjectService">
-    <state width="1344" height="148" key="GridCell.Tab.0.bottom" timestamp="1581004669111">
+    <state x="804" y="118" key="FileChooserDialogImpl" timestamp="1581134695624">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="148" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581004669111" />
-    <state width="1344" height="148" key="GridCell.Tab.0.center" timestamp="1581004669111">
+    <state x="804" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581134695624" />
+    <state width="1344" height="172" key="GridCell.Tab.0.bottom" timestamp="1581180287725">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="148" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581004669111" />
-    <state width="1344" height="148" key="GridCell.Tab.0.left" timestamp="1581004669110">
+    <state width="1344" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581180287725" />
+    <state width="1344" height="172" key="GridCell.Tab.0.center" timestamp="1581180287724">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="148" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581004669110" />
-    <state width="1344" height="148" key="GridCell.Tab.0.right" timestamp="1581004669111">
+    <state width="1344" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581180287724" />
+    <state width="1344" height="172" key="GridCell.Tab.0.left" timestamp="1581180287724">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="148" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581004669111" />
-    <state width="1344" height="148" key="GridCell.Tab.1.bottom" timestamp="1581004669111">
+    <state width="1344" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581180287724" />
+    <state width="1344" height="172" key="GridCell.Tab.0.right" timestamp="1581180287724">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="148" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581004669111" />
-    <state width="1344" height="148" key="GridCell.Tab.1.center" timestamp="1581004669111">
+    <state width="1344" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581180287724" />
+    <state width="1344" height="158" key="GridCell.Tab.1.bottom" timestamp="1581179796104">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="148" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1581004669111" />
-    <state width="1344" height="148" key="GridCell.Tab.1.left" timestamp="1581004669111">
+    <state width="1344" height="158" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581179796104" />
+    <state width="1344" height="158" key="GridCell.Tab.1.center" timestamp="1581179796103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="148" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1581004669111" />
-    <state width="1344" height="148" key="GridCell.Tab.1.right" timestamp="1581004669111">
+    <state width="1344" height="158" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1581179796103" />
+    <state width="1344" height="158" key="GridCell.Tab.1.left" timestamp="1581179796103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="148" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581004669111" />
-    <state x="368" y="0" key="SettingsEditor" timestamp="1580816052085">
+    <state width="1344" height="158" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1581179796103" />
+    <state width="1344" height="158" key="GridCell.Tab.1.right" timestamp="1581179796104">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="368" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580816052085" />
+    <state width="1344" height="158" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581179796104" />
+    <state x="368" y="0" key="SettingsEditor" timestamp="1581133767949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581133767949" />
     <state x="330" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580823592194">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -433,161 +281,21 @@
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/asd.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="36" />
+          <url>file://$PROJECT_DIR$/practice/2020_02/20200208/list_2/1954_달팽이 숫자.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200207/Solving Club/6109_추억의 2048게임.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="42" />
+          <url>file://$USER_HOME$/Dropbox/SSAFY_대전_3기_2반/200206_문제풀이/4615_오셀로.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/2020_02/20200208/5356_의석이의 세로로 말해요.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200206/SW Expert/1860_진기의 최고급 붕어빵_D2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1959_두 개의 숫자열_D2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200206/SW Expert/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200207/Solving Club/1979_어디에 단어가 들어갈 수 있을까.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/asd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200207/Solving Club/1493_수의 새로운 연산.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <marker date="1581045386058" expanded="true" signature="46:47" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200207/Solving Club/1979_어디에 단어가 들어갈 수 있을까_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="28" selection-start-line="28" selection-end-line="31" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200206/solving club/4615_재미있는 오셀로 게임.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-148">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200206/solving club/4615_재미있는 오셀로 게임_복습.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Python35/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="320" selection-start-line="320" selection-end-line="320" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200203/class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-157">
-          <folding>
-            <element signature="e#873#1251#0" />
-            <element signature="e#1262#2515#0" />
-            <element signature="e#2524#2960#0" />
-            <element signature="e#2968#3265#0" />
-            <element signature="e#3276#3468#0" />
-            <element signature="e#3481#3834#0" />
-            <element signature="e#3844#5109#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200207/Solving Club/6109_추억의 2048게임.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="34" />
-          <folding>
-            <marker date="1581058412086" expanded="true" signature="698:1035" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200207/Solving Club/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/1966_숫자를 정렬하자_D2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <marker date="1581058940190" expanded="true" signature="65:240" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/1234_비밀번호_D3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-line="1" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/2805_농작물 수확하기_D3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200207/SW Expert/5603_건초더미_D3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

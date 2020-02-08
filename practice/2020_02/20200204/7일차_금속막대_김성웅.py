@@ -20,8 +20,10 @@ for t in range(T):
                     break
             else:
                 break
+
         if len(ans) == pair:
             break
+
     print('#{} '.format(t + 1), end='')
     for x in ans:
         print(' '.join(x), end=' ')
