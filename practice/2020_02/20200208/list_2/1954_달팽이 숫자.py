@@ -1,5 +1,4 @@
 import sys
-
 sys.stdin = open('input.txt', 'r')
 
 dr = [-1, 0, 1, 0]

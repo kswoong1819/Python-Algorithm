@@ -9,6 +9,7 @@ for t in range(T):
     for i in range(1, N-1):
         for j in range(i):
             arr[i+1][j+1] = arr[i][j] + arr[i][j+1]
+
     print('#{}'.format(t+1))
     for y in range(N):
         for k in arr[y]:
