@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/practice/2020_02/20200213/1267_작업순서_김성웅.py" line="25" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200212/BOJ/2804_크로스워드 만들기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200212/BOJ/2846_오르막길.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200212/SW Expert/4866_괄호검사_김성웅.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200212/SW Expert/4873_반복문자 지우기_김성웅.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200212/SW Expert/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200212/class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TIL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200213/1217_거듭 제곱.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200213/1234_비밀번호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200213/1267_작업순서_김성웅.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200213/4869_종이붙이기_김성웅.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200213/4871_그래프 경로_김성웅.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1210_Ladder1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1940_가랏! RC카! D2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1946_간단한 압축 풀기 D2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1976_시각 덧셈 D2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200213/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200213/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/asd.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd.py" afterDir="false" />
     </list>
@@ -23,40 +30,69 @@
     <session id="1052005956">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="11" />
-          <entry key="txt" value="6" />
+          <entry key="py" value="38" />
+          <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="11" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Python" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="9" />
-          <entry key="py" value="2074" />
-          <entry key="txt" value="371" />
+          <entry key="dummy" value="25" />
+          <entry key="py" value="6893" />
+          <entry key="txt" value="395" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="380" />
-          <entry key="Python" value="2074" />
+          <entry key="PLAIN_TEXT" value="420" />
+          <entry key="Python" value="6893" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/1267_작업순서_김성웅.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="45" column="11" lean-forward="true" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+              <folding>
+                <marker date="1581584196153" expanded="true" signature="77:183" ph="..." />
+                <marker date="1581584196153" expanded="true" signature="203:497" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/asd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/input.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,11 +111,26 @@
         <option value="$PROJECT_DIR$/practice/2020_02/20200212/SW Expert/4866_괄호검사.py" />
         <option value="$PROJECT_DIR$/practice/2020_02/20200212/SW Expert/input.txt" />
         <option value="$PROJECT_DIR$/practice/2020_02/20200212/SW Expert/4873_반복문자 지우기_김성웅.py" />
-        <option value="$PROJECT_DIR$/practice/asd.py" />
         <option value="$PROJECT_DIR$/practice/2020_02/20200212/BOJ/2846_오르막길.py" />
         <option value="$PROJECT_DIR$/practice/2020_02/20200212/BOJ/input.txt" />
         <option value="$PROJECT_DIR$/practice/2020_02/20200212/BOJ/2804_크로스워드 만들기.py" />
         <option value="$PROJECT_DIR$/practice/2020_02/20200212/SW Expert/4866_괄호검사_김성웅.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/BOJ/input.txt" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/BOJ/1210_Ladder1.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/1234_비밀번호.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1940_가랏! RC카! D2.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1946_간단한 압축 풀기 D2.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1976_시각 덧셈 D2.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/input.txt" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/1217_거듭 제곱.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/class.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/4871_그래프 경로.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/4871_그래프 경로.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/4871_그래프 경로_김성웅.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/4869_종이붙이기.py" />
+        <option value="$PROJECT_DIR$/practice/asd.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/input.txt" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/1267_작업순서_김성웅.py" />
       </list>
     </option>
   </component>
@@ -97,7 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,35 +171,13 @@
               <item name="TIL" type="462c0819:PsiDirectoryNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="2020_02" type="462c0819:PsiDirectoryNode" />
-              <item name="20200211" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_02" type="462c0819:PsiDirectoryNode" />
-              <item name="20200211" type="462c0819:PsiDirectoryNode" />
-              <item name="Solving Club" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_02" type="462c0819:PsiDirectoryNode" />
-              <item name="20200212" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_02" type="462c0819:PsiDirectoryNode" />
-              <item name="20200212" type="462c0819:PsiDirectoryNode" />
-              <item name="SW Expert" type="462c0819:PsiDirectoryNode" />
+              <item name="20200213" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -166,11 +194,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\multicampus\Desktop\바탕화면정리\TIL\practice\2020_02\20200213" />
+      <recent name="C:\Users\multicampus\Desktop\바탕화면정리\TIL\practice\2020_02\20200213\SW Expert" />
       <recent name="C:\Users\Hi\Desktop\TIL\TIL\practice\2020_02\20200209\SW Expert" />
       <recent name="C:\Users\Hi\Desktop\TIL\TIL\practice\2020_02\20200208" />
       <recent name="C:\Users\Hi\Desktop\TIL\TIL\practice\2020_02\20200208\list_2" />
-      <recent name="C:\Users\multicampus\Desktop\TIL\TIL\practice\2020_02\20200204\list2 문제" />
-      <recent name="C:\Users\multicampus\Desktop\TIL\TIL\practice" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -185,8 +213,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2804_크로스워드 만들기">
-    <configuration name="2804_크로스워드 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1267_작업순서_김성웅">
+    <configuration name="1267_작업순서_김성웅" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,11 +222,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200212/BOJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200213" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200212/BOJ/2804_크로스워드 만들기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200213/1267_작업순서_김성웅.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,7 +235,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2846_오르막길" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4871_그래프 경로 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,11 +243,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200212/BOJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200213" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200212/BOJ/2846_오르막길.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\바탕화면정리\TIL\practice\2020_02\20200213\4871_그래프 경로_김성웅.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,7 +256,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4866_괄호검사" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4871_그래프 경로" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,11 +264,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200212/SW Expert" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\바탕화면정리\TIL\practice\2020_02\20200212\SW Expert\4866_괄호검사_김성웅.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\바탕화면정리\TIL\practice\2020_02\20200213\4871_그래프 경로_김성웅.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4873_반복문자 지우기_김성웅" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4871_그래프 경로_김성웅" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,11 +285,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200212/SW Expert" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200213" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200212/SW Expert/4873_반복문자 지우기_김성웅.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200213/4871_그래프 경로_김성웅.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,19 +320,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2846_오르막길" />
-      <item itemvalue="Python.4866_괄호검사" />
-      <item itemvalue="Python.4873_반복문자 지우기_김성웅" />
+      <item itemvalue="Python.4871_그래프 경로" />
+      <item itemvalue="Python.4871_그래프 경로 (1)" />
+      <item itemvalue="Python.1267_작업순서_김성웅" />
+      <item itemvalue="Python.4871_그래프 경로_김성웅" />
       <item itemvalue="Python.asd" />
-      <item itemvalue="Python.2804_크로스워드 만들기" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2804_크로스워드 만들기" />
-        <item itemvalue="Python.2846_오르막길" />
+        <item itemvalue="Python.1267_작업순서_김성웅" />
         <item itemvalue="Python.asd" />
-        <item itemvalue="Python.4873_반복문자 지우기_김성웅" />
-        <item itemvalue="Python.4866_괄호검사" />
+        <item itemvalue="Python.4871_그래프 경로_김성웅" />
+        <item itemvalue="Python.4871_그래프 경로 (1)" />
+        <item itemvalue="Python.4871_그래프 경로" />
       </list>
     </recent_temporary>
   </component>
@@ -336,20 +364,20 @@
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2872807" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -454,6 +482,21 @@
           <line>6</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/2020_02/20200213/class.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1946_간단한 압축 풀기 D2.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/2020_02/20200213/class.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -462,33 +505,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-          <folding>
-            <marker date="1581467422976" expanded="true" signature="46:118" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/2020_02/20200212/SW Expert/input.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice/2020_02/20200212/SW Expert/4873_반복문자 지우기_김성웅.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/asd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -517,6 +543,150 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200209/1211_Ladder2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1210_Ladder1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <marker date="1581553635346" expanded="true" signature="79:245" ph="..." />
+            <marker date="1581553635346" expanded="true" signature="256:616" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/1234_비밀번호.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1940_가랏! RC카! D2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200211/BOJ/8979_올림픽.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200211/BOJ/10163_색종이.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200211/BOJ/2615_오목.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200211/BOJ/2578_빙고.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200211/BOJ/2562_경비원.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1112" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200211/BOJ/1244_스위치 켜고 끄기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="29" selection-start-line="29" selection-end-line="32" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200211/BOJ/2628_종이자르기.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1946_간단한 압축 풀기 D2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1976_시각 덧셈 D2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/1217_거듭 제곱.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding>
+            <marker date="1581572359375" expanded="true" signature="510:671" ph="..." />
+            <marker date="1581572359375" expanded="true" signature="668:669" ph="..." />
+            <marker date="1581572359375" expanded="true" signature="668:670" ph="..." />
+            <marker date="1581572359375" expanded="true" signature="847:859" ph="..." />
+            <marker date="1581572359375" expanded="true" signature="851:859" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/4869_종이붙이기_김성웅.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/4871_그래프 경로_김성웅.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <marker date="1581579825014" expanded="true" signature="67:223" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/asd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/1267_작업순서_김성웅.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="45" column="11" lean-forward="true" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+          <folding>
+            <marker date="1581584196153" expanded="true" signature="77:183" ph="..." />
+            <marker date="1581584196153" expanded="true" signature="203:497" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

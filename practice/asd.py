@@ -1,2 +1,5 @@
-a= '1 2 '
-print(a*500)
+a = [8]
+b = [8, 5, 9]
+
+if a in b:
+    print(a)
