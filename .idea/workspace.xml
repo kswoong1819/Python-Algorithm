@@ -2,26 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1210_ladder_dfs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1859_백만 장자 프로젝트 D2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1974_스도쿠 검증 D2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1210_ladder1_dfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1210_ladder1_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200214/1210_Ladder1_dfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200214/1210_Ladder1_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200214/1226_미로1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200214/1267_작업순서_강사님.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200214/BOJ/1012_유기농배추.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200214/BOJ/1914_하노이 탑 이동 순서.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200214/BOJ/2667_단지번호붙이기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200214/BOJ/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200214/SW Expert/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200214/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/TIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TIL.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200213/1267_작업순서_김성웅.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200213/1267_작업순서_김성웅.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1976_시각 덧셈 D2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1976_시각 덧셈 D2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200213/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200213/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1284_수도요금경쟁_D2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1284_수도요금경쟁_D2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1210_ladder_dfs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1859_백만 장자 프로젝트 D2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200214/SW Expert/1859_백만 장자 프로젝트 D2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/asd.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/asd2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/input.txt" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1052005956">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="py" value="27" />
+          <entry key="txt" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="11" />
+          <entry key="java" value="1" />
+          <entry key="py" value="3366" />
+          <entry key="txt" value="136" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="148" />
+          <entry key="Python" value="3366" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practice/2020_02/20200214/BOJ/2667_단지번호붙이기.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="42" selection-end-column="22" />
+              <folding>
+                <marker date="1581667805340" expanded="true" signature="93:342" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/2020_02/20200214/BOJ/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="yet_unknown" />
         <option value="Python Script" />
       </list>
     </option>
@@ -29,9 +105,85 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1210_ladder_dfs.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/input.txt" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1210.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200214/1226_미로1.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200214/input.txt" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200214/1210_Ladder1_dfs.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200214/1210_Ladder1_stack.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200214/1267_작업순서_강사닙.java" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200214/1267_작업순서_강사님.java" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1284_수도요금경쟁_D2.py" />
+        <option value="$PROJECT_DIR$/practice/asd.py" />
+        <option value="$PROJECT_DIR$/practice/asd2.py" />
+        <option value="$PROJECT_DIR$/practice/input.txt" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200214/BOJ/1012_유기농배추.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200214/SW Expert/input.txt" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200214/SW Expert/1859_백만 장자 프로젝트 D2.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200214/BOJ/11729_하노이 탑 이동 순서.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200214/BOJ/1914_하노이 탑 이동 순서.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200214/BOJ/input.txt" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200214/BOJ/2667_단지번호붙이기.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
   <component name="ProjectId" id="1X4BY8vetLf6XERJaMWZJSui41W" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="2020_02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="2020_02" type="462c0819:PsiDirectoryNode" />
+              <item name="20200214" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="2020_02" type="462c0819:PsiDirectoryNode" />
+              <item name="20200214" type="462c0819:PsiDirectoryNode" />
+              <item name="BOJ" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,15 +199,27 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\multicampus\Desktop\바탕화면정리\TIL\practice\2020_02\20200214\SW Expert" />
       <recent name="C:\Users\multicampus\Desktop\바탕화면정리\TIL\practice\2020_02\20200213" />
       <recent name="C:\Users\multicampus\Desktop\바탕화면정리\TIL\practice\2020_02\20200213\SW Expert" />
       <recent name="C:\Users\Hi\Desktop\TIL\TIL\practice\2020_02\20200209\SW Expert" />
       <recent name="C:\Users\Hi\Desktop\TIL\TIL\practice\2020_02\20200208" />
-      <recent name="C:\Users\Hi\Desktop\TIL\TIL\practice\2020_02\20200208\list_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1859_백만 장자 프로젝트 D2">
-    <configuration name="1210_ladder_dfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.2667_단지번호붙이기">
+    <configuration name="1012_유기농배추" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +227,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200214/BOJ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1210_ladder_dfs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200214/BOJ/1012_유기농배추.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +240,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1267_작업순서_김성웅" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1859_백만 장자 프로젝트 D2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200213" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200214/SW Expert" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200213/1267_작업순서_김성웅.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200214/SW Expert/1859_백만 장자 프로젝트 D2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1859_백만 장자 프로젝트 D2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1914_하노이 탑 이동 순서" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +269,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200214/BOJ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1859_백만 장자 프로젝트 D2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200214/BOJ/1914_하노이 탑 이동 순서.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +282,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1974_스도쿠 검증 D2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2667_단지번호붙이기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +290,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200214/BOJ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1974_스도쿠 검증 D2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200214/BOJ/2667_단지번호붙이기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +303,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1976_시각 덧셈 D2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="asd" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +311,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1976_시각 덧셈 D2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/asd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,19 +325,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1267_작업순서_김성웅" />
-      <item itemvalue="Python.1210_ladder_dfs" />
-      <item itemvalue="Python.1976_시각 덧셈 D2" />
-      <item itemvalue="Python.1974_스도쿠 검증 D2" />
+      <item itemvalue="Python.1012_유기농배추" />
+      <item itemvalue="Python.asd" />
       <item itemvalue="Python.1859_백만 장자 프로젝트 D2" />
+      <item itemvalue="Python.1914_하노이 탑 이동 순서" />
+      <item itemvalue="Python.2667_단지번호붙이기" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2667_단지번호붙이기" />
+        <item itemvalue="Python.1914_하노이 탑 이동 순서" />
         <item itemvalue="Python.1859_백만 장자 프로젝트 D2" />
-        <item itemvalue="Python.1267_작업순서_김성웅" />
-        <item itemvalue="Python.1974_스도쿠 검증 D2" />
-        <item itemvalue="Python.1976_시각 덧셈 D2" />
-        <item itemvalue="Python.1210_ladder_dfs" />
+        <item itemvalue="Python.1012_유기농배추" />
+        <item itemvalue="Python.asd" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +365,31 @@
       <updated>1579658350710</updated>
     </task>
     <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28846154" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33004385" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39473686" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
     <state x="804" y="118" key="FileChooserDialogImpl" timestamp="1581134695624">
@@ -330,16 +519,172 @@
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1859_백만 장자 프로젝트 D2.py</url>
+          <url>file://$PROJECT_DIR$/practice/2020_02/20200214/SW Expert/1859_백만 장자 프로젝트 D2.py</url>
           <line>4</line>
           <option name="timeStamp" value="79" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1859_백만 장자 프로젝트 D2.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="80" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>farm</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1961_숫자 배열 회전_D2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1210_Ladder1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="66" lean-forward="true" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1210_ladder1_dfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1210_ladder1_stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="39" lean-forward="true" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200214/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1460">
+          <caret line="1009" column="199" selection-start-line="1009" selection-start-column="199" selection-end-line="1009" selection-end-column="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200214/1267_작업순서_강사님.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200214/1210_Ladder1_stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1284_수도요금경쟁_D2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="29" lean-forward="true" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/asd.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/asd2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200214/1226_미로1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="34" />
+          <folding>
+            <marker date="1581643897003" expanded="true" signature="90:601" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200214/1210_Ladder1_dfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1974_스도쿠 검증 D2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200214/BOJ/1012_유기농배추.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <marker date="1581658564258" expanded="true" signature="144:392" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200214/SW Expert/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200214/SW Expert/1859_백만 장자 프로젝트 D2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/1267_작업순서_김성웅.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200213/4871_그래프 경로_김성웅.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200214/BOJ/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200214/BOJ/1914_하노이 탑 이동 순서.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <marker date="1581666703390" expanded="true" signature="10:56" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200214/BOJ/2667_단지번호붙이기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="42" selection-end-column="22" />
+          <folding>
+            <marker date="1581667805340" expanded="true" signature="93:342" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
