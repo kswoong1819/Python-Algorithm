@@ -29,9 +29,9 @@
 #         print(arr[i][-j-1], end='')
 
 # 열을 밑에서 부터 출력
-# for j in range(C):
-#     for i in range(R):
-#         print(arr[-i-1][j], end='')
+# for i in range(C):
+#     for j in range(R):
+#         print(arr[-j-1][-1-i], end='')
 
 # 지그재그 행
 # for i in range(R):
