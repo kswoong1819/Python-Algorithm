@@ -1,30 +1,31 @@
-dr = [-1,1,0,0]
-dc = [0,0,-1,1]
+dr = [0,0,-1]
+dc = [-1,1,0]
 
 def dfs(r,c):
     global ans
-    for i in range(4):
+    if ans != -1:
+        return
+    if r == 0:
+        ans = c
+        return
+    for i in range(3):
         nr = r + dr[i]
         nc = c + dc[i]
-        if nc < 0 or nc>=N or nr<0 or nr>=N :
+        if nr < 0 or nr >=N or nc < 0 or nc >= N:
             continue
-        if maze[nr][nc] == 0 or maze[nr][nc] == 3:
-            if maze[nr][nc] == 3:
-                ans = 1
-                return
-            maze[nr][nc] = 1
+        if ladder[nr][nc] == 1:
+            ladder[nr][nc] = 2
             dfs(nr,nc)
 
-for tc in range(1):
-    tc_num = int(input())
-    N = 16
-    maze = [list(map(int, input())) for _ in range(N)]
-    ans = 0
-    for i in range(N):
-        for j in range(N):
-            if maze[i][j] == 2:
-                sR = i
-                sC = j
+for t in range(10):
+    T = int(input())
+    N = 100
+    ladder = [list(map(int, input().split())) for _ in range(N)]
+    ans = -1
 
-    print(dfs(sR, sC))
-    print("#{} {}".format(tc_num, ans))
+    for i in range(N):
+        if ladder[N-1][i] == 2:
+            sc = i
+            break
+
+    dfs(N-1,sc)
