@@ -1,31 +1,28 @@
-dr = [0,0,-1]
-dc = [-1,1,0]
+def is_available(candidate, current_col):
+    current_row = len(candidate)
+    for queen_row in range(current_row):
+        if candidate[queen_row] == current_col or abs(candidate[queen_row] - current_col) == current_row - queen_row:
+            return False
+    return True
 
-def dfs(r,c):
-    global ans
-    if ans != -1:
+
+def DFS(N, current_row, current_candidate, final_result):
+    if current_row == N:
+        final_result.append(current_candidate[:])
         return
-    if r == 0:
-        ans = c
-        return
-    for i in range(3):
-        nr = r + dr[i]
-        nc = c + dc[i]
-        if nr < 0 or nr >=N or nc < 0 or nc >= N:
-            continue
-        if ladder[nr][nc] == 1:
-            ladder[nr][nc] = 2
-            dfs(nr,nc)
 
-for t in range(10):
-    T = int(input())
-    N = 100
-    ladder = [list(map(int, input().split())) for _ in range(N)]
-    ans = -1
+    for candidate_col in range(N):
+        if is_available(current_candidate, candidate_col):
+            current_candidate.append(candidate_col)
+            DFS(N, current_row + 1, current_candidate, final_result)
+            current_candidate.pop()
 
-    for i in range(N):
-        if ladder[N-1][i] == 2:
-            sc = i
-            break
 
-    dfs(N-1,sc)
+def solve_n_queens(N):
+    final_result = []
+    DFS(N, 0, [], final_result)
+    return final_result
+
+
+tmp = solve_n_queens(4)
+print(tmp)
