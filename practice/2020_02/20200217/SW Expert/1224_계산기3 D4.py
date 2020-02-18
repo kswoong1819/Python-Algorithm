@@ -11,54 +11,40 @@ def cal(list_):
                 num1 = stack.pop()
                 num2 = stack.pop()
                 stack.append(num2 + num1)
-            elif list_[i] == '-':
-                num1 = stack.pop()
-                num2 = stack.pop()
-                stack.append(num2 - num1)
             elif list_[i] == '*':
                 num1 = stack.pop()
                 num2 = stack.pop()
                 stack.append(num2 * num1)
-            elif list_[i] == '/':
-                num1 = stack.pop()
-                num2 = stack.pop()
-                stack.append(int(num2 / num1))
-        elif len(stack) == 1:
-            return stack.pop()
+    result = stack.pop()
+    return result
 
-for t in range(1):
-    N = int(input())
-    list_ = input()
-
-    isp = {'*': 4, '/': 4, '+': 2, '-': 2, '(': 1, ')':50}
-    icp = {'*': 4, '/': 4, '+': 2, '-': 2, '(': 5, ')':0}
-
+for t in range(10):
+    length = int(input())
+    math = input()
     stack = []
-    oper = []
-    for i in list_:
-        if i.isdigit():
-            stack.append(i)
-        else:
-            if len(oper) == 0:
-                oper.append(i)
-            elif icp[i] > isp[oper[-1]]:
-                oper.append(i)
-            elif icp[i] < isp[oper[-1]]:
-                tmp = oper.pop()
-                if tmp == '(':
-                    continue
-                stack.append(tmp)
-                if oper[len(oper)-1:] == '(':
-                    oper.pop()
-            elif icp[i] == isp[oper[-1]]:
-                tmp = oper.pop()
-                stack.append(tmp)
-                oper.append(i)
-    while len(oper) != 0:
-        if oper[-1] == '(':
-            oper.pop()
-        else:
-            tmp = oper.pop()
-            stack.append(tmp)
+    num_list = []
 
-    print(cal(stack))
+    icp = {'*': 2, '+': 1, '(': 3}
+    isp = {'*': 2, '+': 1, '(': 0}
+
+    for i in range(length):
+        if math[i].isdigit():
+            num_list.append(math[i])
+        else:
+            if len(stack) == 0:
+                stack.append(math[i])
+                continue
+            elif len(stack) > 0:
+                if math[i] == ')':
+                    while stack[-1] != '(':
+                        num_list.append(stack.pop())
+                    stack.pop()
+
+                elif icp[math[i]] > isp[stack[-1]]:
+                    stack.append(math[i])
+                else:
+                    while icp[math[i]] <= isp[stack[-1]]:
+                        num_list.append(stack.pop())
+                    stack.append(math[i])
+
+    print('#{} {}'.format(t+1,cal(num_list)))

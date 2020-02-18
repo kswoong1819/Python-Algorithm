@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/practice/2020_02/20200218/BOJ/15652_N과M(4).py" line="19" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200217/BOJ/15649_N과 M.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200217/BOJ/15650_N과M(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200217/SW Expert/1224_계산기3 D4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200217/SW Expert/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200217/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TIL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200218/4880_토너먼트 카드게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200218/4881_배열 최소 합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200218/BOJ/15651_N과M(3).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200218/BOJ/15652_N과M(4).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200218/BOJ/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200218/SW Expert/2806_N-Queen D3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200218/SW Expert/2817_부분 수열의 합 D3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200218/SW Expert/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200218/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200218/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200217/BOJ/15649_N과 M.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200217/BOJ/15649_N과 M.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200217/BOJ/15650_N과M(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200218/BOJ/15650_N과M(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200217/SW Expert/1224_계산기3 D4.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200217/SW Expert/1224_계산기3 D4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200217/SW Expert/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200217/SW Expert/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/asd.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/asd2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,33 +32,33 @@
     <session id="1052005956">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="17" />
-          <entry key="txt" value="3" />
+          <entry key="py" value="55" />
+          <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="17" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Python" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3039" />
-          <entry key="txt" value="200" />
+          <entry key="py" value="7990" />
+          <entry key="txt" value="254" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="200" />
-          <entry key="Python" value="3039" />
+          <entry key="PLAIN_TEXT" value="254" />
+          <entry key="Python" value="7990" />
         </counts>
       </usages-collector>
     </session>
@@ -57,27 +66,26 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practice/2020_02/20200217/SW Expert/1224_계산기3 D4.py">
+        <entry file="file://$PROJECT_DIR$/practice/2020_02/20200218/SW Expert/2806_N-Queen D3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="558">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               <folding>
-                <marker date="1581929422845" expanded="true" signature="62:860" ph="..." />
+                <marker date="1582016425435" expanded="true" signature="542:543" ph="..." />
+                <marker date="1582016425435" expanded="true" signature="591:779" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/asd.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/2020_02/20200217/SW Expert/input.txt">
+        <entry file="file://$PROJECT_DIR$/practice/2020_02/20200218/SW Expert/2817_부분 수열의 합 D3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="76">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="e#47#627#1" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -100,22 +108,34 @@
       <list>
         <option value="$PROJECT_DIR$/practice/2020_02/20200217/input.txt" />
         <option value="$PROJECT_DIR$/practice/2020_02/20200217/4874_Forth.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200217/BOJ/15649_N과 M.py" />
-        <option value="$PROJECT_DIR$/practice/asd2.py" />
         <option value="$PROJECT_DIR$/practice/2020_02/20200217/BOJ/15650_N과M(2).py" />
         <option value="$PROJECT_DIR$/practice/2020_02/20200217/Magnetic.py" />
         <option value="$PROJECT_DIR$/practice/2020_02/20200217/BOJ/1224_계산기3 D4.py" />
         <option value="$PROJECT_DIR$/practice/2020_02/20200217/BOJ/input.txt" />
         <option value="$PROJECT_DIR$/../../0217_2반_김성웅_Forth.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200218/BOJ/input.txt" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200218/BOJ/15650_N과M(2).py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200218/BOJ/15651_N과M(3).py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200218/BOJ/15652_N과M(4).py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200218/SW Expert.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200217/BOJ/15649_N과 M.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200218/SW Expert/2817_부분 수열의 합 D3.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200218/class.py" />
         <option value="$PROJECT_DIR$/practice/asd.py" />
-        <option value="$PROJECT_DIR$/practice/2020_02/20200217/SW Expert/1224_계산기3 D4.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200218/input.txt" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200218/4880_토너먼트 카드게임.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200218/4881_배열 최소 합.py" />
         <option value="$PROJECT_DIR$/practice/2020_02/20200217/SW Expert/input.txt" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200217/SW Expert/1224_계산기3 D4.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200218/SW Expert/input.txt" />
+        <option value="$PROJECT_DIR$/practice/asd2.py" />
+        <option value="$PROJECT_DIR$/practice/2020_02/20200218/SW Expert/2806_N-Queen D3.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
-    <option name="width" value="974" />
+    <option name="width" value="971" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectId" id="1X4BY8vetLf6XERJaMWZJSui41W" />
@@ -151,22 +171,14 @@
               <item name="TIL" type="462c0819:PsiDirectoryNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="2020_02" type="462c0819:PsiDirectoryNode" />
-              <item name="20200217" type="462c0819:PsiDirectoryNode" />
+              <item name="20200218" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIL" type="462c0819:PsiDirectoryNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="2020_02" type="462c0819:PsiDirectoryNode" />
-              <item name="20200217" type="462c0819:PsiDirectoryNode" />
-              <item name="BOJ" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="2020_02" type="462c0819:PsiDirectoryNode" />
-              <item name="20200217" type="462c0819:PsiDirectoryNode" />
+              <item name="20200218" type="462c0819:PsiDirectoryNode" />
               <item name="SW Expert" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -189,11 +201,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\multicampus\Desktop\바탕화면정리\TIL\practice\2020_02\20200218\BOJ" />
       <recent name="C:\Users\multicampus\Desktop\바탕화면정리\TIL\practice\2020_02\20200217\SW Expert" />
       <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_02\20200216\SW Expert" />
       <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_02\20200215\SW Expert" />
       <recent name="C:\Users\multicampus\Desktop\바탕화면정리\TIL\practice\2020_02\20200214\SW Expert" />
-      <recent name="C:\Users\multicampus\Desktop\바탕화면정리\TIL\practice\2020_02\20200213" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -208,8 +220,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1224_계산기3 D4 (1)">
-    <configuration name="1224_계산기3 D4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2806_N-Queen D3">
+    <configuration name="1224_계산기3 D4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1224_계산기3 D4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2806_N-Queen D3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,11 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200217/BOJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200218/SW Expert" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\바탕화면정리\TIL\practice\2020_02\20200217\SW Expert\1224_계산기3 D4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200218/SW Expert/2806_N-Queen D3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Magnetic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4880_토너먼트 카드게임" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,11 +271,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200217" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200218" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200217/Magnetic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200218/4880_토너먼트 카드게임.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4881_배열 최소 합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200218" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200218/4881_배열 최소 합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,41 +326,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="asd2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/asd2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.asd2" />
-      <item itemvalue="Python.1224_계산기3 D4" />
-      <item itemvalue="Python.Magnetic" />
       <item itemvalue="Python.asd" />
-      <item itemvalue="Python.1224_계산기3 D4 (1)" />
+      <item itemvalue="Python.4880_토너먼트 카드게임" />
+      <item itemvalue="Python.4881_배열 최소 합" />
+      <item itemvalue="Python.1224_계산기3 D4" />
+      <item itemvalue="Python.2806_N-Queen D3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1224_계산기3 D4 (1)" />
-        <item itemvalue="Python.asd" />
-        <item itemvalue="Python.asd2" />
+        <item itemvalue="Python.2806_N-Queen D3" />
         <item itemvalue="Python.1224_계산기3 D4" />
-        <item itemvalue="Python.Magnetic" />
+        <item itemvalue="Python.4880_토너먼트 카드게임" />
+        <item itemvalue="Python.4881_배열 최소 합" />
+        <item itemvalue="Python.asd" />
       </list>
     </recent_temporary>
   </component>
@@ -357,15 +369,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="971" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1227608" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25723472" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2982456" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.1921824" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29714912" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3475877" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -513,6 +525,11 @@
           <line>4</line>
           <option name="timeStamp" value="106" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/2020_02/20200218/4880_토너먼트 카드게임.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -541,53 +558,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200217/BOJ/15649_N과 M.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="34" />
-          <folding>
-            <marker date="1581917163649" expanded="true" signature="142:143" ph="..." />
-            <marker date="1581917163649" expanded="true" signature="142:418" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200217/BOJ/15650_N과M(2).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding>
-            <marker date="1581919277112" expanded="true" signature="99:104" ph="..." />
-            <marker date="1581919277112" expanded="true" signature="99:129" ph="..." />
-            <marker date="1581919277112" expanded="true" signature="99:130" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/asd2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200217/4874_Forth.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="8" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="35" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200217/Magnetic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../0217_2반_김성웅_Forth.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200217/4874_Forth.py" />
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200217/Magnetic.py" />
+    <entry file="file://$PROJECT_DIR$/../../0217_2반_김성웅_Forth.py" />
     <entry file="file://$PROJECT_DIR$/practice/2020_02/20200209/SW Expert/1220_Magnetic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -602,22 +575,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200217/SW Expert/input.txt">
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200218/SW Expert.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200218/BOJ/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200217/BOJ/15649_N과 M.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="323">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <marker date="1581990516383" expanded="true" signature="94:95" ph="..." />
+            <marker date="1581990516383" expanded="true" signature="94:377" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200218/BOJ/15652_N과M(4).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200218/BOJ/15651_N과M(3).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <marker date="1581986340549" expanded="true" signature="94:99" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200218/BOJ/15650_N과M(2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200218/class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-703">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <marker date="1581995136158" expanded="true" signature="110:150" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200218/4880_토너먼트 카드게임.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+          <folding>
+            <marker date="1582011935385" expanded="true" signature="511:572" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200218/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200218/4881_배열 최소 합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/asd.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200217/SW Expert/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/2020_02/20200217/SW Expert/1224_계산기3 D4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="477">
+          <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
           <folding>
-            <marker date="1581929422845" expanded="true" signature="62:860" ph="..." />
+            <marker date="1582012519253" expanded="true" signature="62:545" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200218/SW Expert/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200218/SW Expert/2817_부분 수열의 합 D3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#47#627#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/asd2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/2020_02/20200218/SW Expert/2806_N-Queen D3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <marker date="1582016425435" expanded="true" signature="542:543" ph="..." />
+            <marker date="1582016425435" expanded="true" signature="591:779" ph="..." />
           </folding>
         </state>
       </provider>

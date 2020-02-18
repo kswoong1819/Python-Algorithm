@@ -10,9 +10,7 @@ def go(index, n, m):
             print(a[i], end=' ')
         print()
         return
-    for i in range(1, N + 1):
-        if check[i]:
-            continue
+    for i in range(1, 1 + N):
         check[i] = True
         a[index] = i
         go(index + 1, n, m)
