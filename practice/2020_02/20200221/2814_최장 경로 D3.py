@@ -6,8 +6,8 @@ def dfs(visited, V):
         if arr[V][i] == 1 and i not in visited:
             visited.append(i)
             dfs(visited, i)
-    return visited
-
+            if i in visited:
+                return visited
 
 T = int(input())
 
@@ -19,11 +19,11 @@ for t in range(T):
         x, y = map(int, input().split())
         arr[x][y] = arr[y][x] = 1
 
-    maxlen = 0
+    maxlen = 1
     for i in range(1, N+1):
-        tmp = dfs([i], i)
-        print(i, tmp)
-        if len(tmp) > maxlen:
-            maxlen = len(tmp)
+        if dfs([i], i):
+            tmp = len(dfs([i], i))
+            if tmp > maxlen:
+                maxlen = tmp
 
-    print(maxlen)
+    print('#{} {}'.format(t+1, maxlen))
