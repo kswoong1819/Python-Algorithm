@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200223/BOJ/1193_분수찾기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200223/BOJ/1316_그룹단어체크.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200223/BOJ/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200223/SW Expert/1213_String D3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200223/SW Expert/1240_단순 2진 암호코드 D3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200223/SW Expert/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/JUNGOL/132_반복제어문2 - 형성평가3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/JUNGOL/134_반복제어문2 - 형성평가5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/JUNGOL/135_반복제어문2 - 형성평가6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/JUNGOL/137_반복제어문2 - 형성평가8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/JUNGOL/138_반복제어문2 - 형성평가9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/JUNGOL/141_반복제어문3 - 형성평가2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/JUNGOL/142_반복제어문3 - 형성평가3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/JUNGOL/143_반복제어문3 - 형성평가4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/JUNGOL/145_반복제어문3 - 형성평가6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/JUNGOL/146_반복제어문3 - 형성평가7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/JUNGOL/149_반복제어문3 - 형성평가A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/JUNGOL/160_배열2 - 형성평가1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/미해결/SW Expert/3131_100만 이하의 모든 소수 D3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/JUNGOL/162_배열2 - 형성평가3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/asd.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/asd2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/JUNGOL/161_배열2 - 형성평가2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/JUNGOL/161_배열2 - 형성평가2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,49 +47,7 @@
       <recent name="C:\Users\multicampus\Desktop\바탕화면정리\TIL\practice\2020_02\20200218\BOJ" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.160_배열2 - 형성평가1">
-    <configuration name="143_반복제어문3 - 형성평가4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/JUNGOL" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/JUNGOL/143_반복제어문3 - 형성평가4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="145_반복제어문3 - 형성평가6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/JUNGOL" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/JUNGOL/145_반복제어문3 - 형성평가6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.162_배열2 - 형성평가3">
     <configuration name="146_반복제어문3 - 형성평가7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,20 +111,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="161_배열2 - 형성평가2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/JUNGOL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/JUNGOL/161_배열2 - 형성평가2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="162_배열2 - 형성평가3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/JUNGOL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/JUNGOL/162_배열2 - 형성평가3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.143_반복제어문3 - 형성평가4" />
-      <item itemvalue="Python.145_반복제어문3 - 형성평가6" />
       <item itemvalue="Python.146_반복제어문3 - 형성평가7" />
       <item itemvalue="Python.149_반복제어문3 - 형성평가A" />
       <item itemvalue="Python.160_배열2 - 형성평가1" />
+      <item itemvalue="Python.161_배열2 - 형성평가2" />
+      <item itemvalue="Python.162_배열2 - 형성평가3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.162_배열2 - 형성평가3" />
+        <item itemvalue="Python.161_배열2 - 형성평가2" />
         <item itemvalue="Python.160_배열2 - 형성평가1" />
         <item itemvalue="Python.149_반복제어문3 - 형성평가A" />
         <item itemvalue="Python.146_반복제어문3 - 형성평가7" />
-        <item itemvalue="Python.145_반복제어문3 - 형성평가6" />
-        <item itemvalue="Python.143_반복제어문3 - 형성평가4" />
       </list>
     </recent_temporary>
   </component>
@@ -220,22 +200,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="804" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581134695624" />
-    <state width="645" height="177" key="GridCell.Tab.0.bottom" timestamp="1582472523182">
+    <state width="645" height="177" key="GridCell.Tab.0.bottom" timestamp="1582473915155">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582472523182" />
-    <state width="645" height="177" key="GridCell.Tab.0.center" timestamp="1582472523182">
+    <state width="645" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582473915155" />
+    <state width="645" height="177" key="GridCell.Tab.0.center" timestamp="1582473915154">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582472523182" />
-    <state width="645" height="177" key="GridCell.Tab.0.left" timestamp="1582472523182">
+    <state width="645" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582473915154" />
+    <state width="645" height="177" key="GridCell.Tab.0.left" timestamp="1582473915154">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582472523182" />
-    <state width="645" height="177" key="GridCell.Tab.0.right" timestamp="1582472523182">
+    <state width="645" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582473915154" />
+    <state width="645" height="177" key="GridCell.Tab.0.right" timestamp="1582473915155">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582472523182" />
+    <state width="645" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582473915155" />
     <state width="645" height="121" key="GridCell.Tab.1.bottom" timestamp="1582467978812">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
