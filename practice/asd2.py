@@ -1,20 +1,17 @@
-import sys
-sys.stdin = open('input.txt', 'r')
+def sequence(k,num):
+    if k==m:
+        for i in range(m):
+            print(ls[i],end=' ')
+        print()
+    else:
+        for i in range(num, n+1):
+            if visit[i]:continue
+            visit[i]=1
+            ls[k]=i
+            sequence(k+1,i+1)
+            visit[i]=0
 
-N = int(input())
-cnt = 0
-for t in range(N):
-    word = input()
-    check = [word[0]]
-    for i in range(1, len(word)):
-        if word[i-1] != word[i]:
-            check.append(word[i])
-
-    tmp = []
-    for i in range(len(check)):
-        if check[i] not in tmp:
-            tmp.append(check[i])
-    if len(tmp) == len(check):
-        cnt += 1
-
-print(cnt)
+n,m=map(int,input().split())
+ls=[0]*m
+visit=[0]*(n+1)
+sequence(0,1)

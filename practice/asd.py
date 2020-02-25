@@ -1,14 +1,19 @@
-X = int(input())
-ls = []
-n = 0
-ans = len(ls)
-while ans <= X:
-    ans = len(ls)
-    n += 1
-    if n % 2 != 0:
-        for i in range(n):
-            ls.append(str(n - i) + '/' + str(i + 1))
-    else:
-        for i in range(n):
-            ls.append(str(i + 1) + '/' + str(n - i))
-print(ls[X - 1])
+def binary_search(element, some_list):
+    # 코드를 작성하세요.
+    st = 0
+    ed = len(some_list) - 1
+    while st <= ed:
+        center = (st + ed) // 2
+        if element == some_list[center]:
+            return center
+        elif element > some_list[center]:
+            st = center + 1
+        elif element < some_list[center]:
+            ed = center - 1
+    return None
+
+print(binary_search(2, [2, 3, 5, 7, 11]))
+print(binary_search(0, [2, 3, 5, 7, 11]))
+print(binary_search(5, [2, 3, 5, 7, 11]))
+print(binary_search(3, [2, 3, 5, 7, 11]))
+print(binary_search(11, [2, 3, 5, 7, 11]))
