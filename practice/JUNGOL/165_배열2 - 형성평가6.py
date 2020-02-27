@@ -17,7 +17,7 @@ def change(r,c):
         if nr < 0 or nr >= N or nc < 0 or nc >= N:
             continue
         tmp += arr[nr][nc]
-        arr[r][c] = tmp
+    arr[r][c] = tmp
 
 N = 5
 arr = [[0]*N for _ in range(N)]
