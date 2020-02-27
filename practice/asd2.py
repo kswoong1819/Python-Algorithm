@@ -1,17 +1,70 @@
-def move_disk(disk_num, start_peg, end_peg):
-    print("%d번 원판을 %d번 기둥에서 %d번 기둥으로 이동" % (disk_num, start_peg, end_peg))
+import sys
 
-def hanoi(num_disks, start_peg, end_peg):
-    # 코드를 입력하세요.
-    if num_disks == 0:
-        return
-    if num_disks == 1:
-        return move_disk(num_disks, start_peg, end_peg)
-    other_peg = 6 - (start_peg + end_peg)
-    hanoi(num_disks-1, start_peg, other_peg)
-    move_disk(num_disks, start_peg, end_peg)
-    hanoi(num_disks-1, other_peg, end_peg)
+sys.stdin = open('input.txt')
 
+dr = [0, 1]
+dc = [1, 0]
 
-# 테스트 코드 (포함하여 제출해주세요)
-hanoi(3, 1, 3)
+def count(r, c):
+    count_r = 1
+    count_c = 1
+    for i in range(2):
+        while 1:
+            nr = r + dr[i]
+            nc = c + dc[i]
+            if nr >= N or nc >= N:
+                break
+            if matrix[nr][nc] == 0:
+                break
+            if matrix[nr][nc] != 0 and i == 0:
+                r = nr
+                c = nc
+                count_c += 1
+            if matrix[nr][nc] != 0 and i == 1:
+                r = nr
+                c = nc
+                count_r += 1
+    return count_r, count_c
+
+def change(r, c, Cr, Cc):
+    for i in range(r, r + Cr):
+        for j in range(c, c + Cc):
+            matrix[i][j] = 0
+
+def insertSort(n):
+    for size in range(1, cnt):
+        init = n[size]
+        val = n[size][0] * n[size][1]
+        i = size
+        while i > 0 and n[i-1][0] * n[i-1][1] > val:
+            n[i] = n[i-1]
+            i -= 1
+        n[i] = init
+
+T = int(input())
+
+for t in range(T):
+    N = int(input())
+    matrix = [list(map(int, input().split())) for _ in range(N)]
+
+    cnt = 0
+    result = []
+    for i in range(N):
+        for j in range(N):
+            if matrix[i][j] != 0:
+                cnt +=1
+                Cr, Cc = count(i, j)
+                result.append([Cr,Cc])
+                change(i, j, Cr, Cc)
+
+    insertSort(result)
+
+    print('#{} {} '.format(t+1, cnt), end='')
+    for i in range(cnt):
+        print(' '.join(map(str, result[i])), end=' ')
+    print()
+
+    print("#{} {}".format(tc, len(ans)), end=" ")
+    for i in ans:
+        print("{} {}".format(str(i[0]), str(i[1])), end=" ")
+    print()
