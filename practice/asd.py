@@ -1,37 +1,28 @@
-def made(k, ans):
-    global Max, Min
-    if k == n:
-        if ans > Max:
-            Max = ans
-        if ans < Min:
-            Min = ans
+import sys
+
+sys.stdin = open('input.txt')
+
+
+def go(n, s):
+    global min_ans
+
+    if n >= 13:
+        if min_ans > s:
+            min_ans = s
         return
 
-    for i in range(len(li)):
-        if li[i] > 0:
-            if i == 0:
-                li[i] -= 1
-                made(k + 1, ans + num[k])
-                li[i] += 1
-            if i == 1:
-                li[i] -= 1
-                made(k + 1, ans - num[k])
-                li[i] += 1
-            if i == 2:
-                li[i] -= 1
-                made(k + 1, ans * num[k])
-                li[i] += 1
-            if i == 3:
-                li[i] -= 1
-                made(k + 1, int(ans / num[k]))
-                li[i] += 1
+    go(n + 1, s + d * month[n-1])
+    go(n + 1, s + m1)
+    go(n + 3, s + m3)
+
 
 T = int(input())
-for tc in range(1, T + 1):
-    n = int(input())
-    li = list(map(int, input().split()))
-    num = list(map(int, input().split()))
-    Max = -9999999
-    Min = 9999999
-    made(1, num[0])
-    print('#{} {}'.format(tc,Max - Min))
+
+for t in range(T):
+    d, m1, m3, y = map(int, input().split())
+    month = list(map(int, input().split()))
+
+    min_ans = y
+    go(1, 0)
+
+    print('#{} {}'.format(t + 1, min_ans))
