@@ -13,7 +13,7 @@ def partition(my_list, start, end):
             swap_elements(my_list, i, b)
             b += 1
 
-    swap_elements(my_list, b, len(my_list)-1)
+    swap_elements(my_list, b, my_list.index(p))
 
     return my_list.index(p)
 

@@ -2,26 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200228/2819_격자판의 숫자 이어 붙이기 D4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200228/5658_보물상자 비밀번호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200228/5789. 현주의 상자 바꾸기 D3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200228/BOJ_2210_숫자판 점프.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_02/20200228/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/미해결/BOJ/BOJ_1941_소문난 칠공주.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/미해결/BOJ/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/미해결/SW Expert/3307_최장 증가 부분 수열 D3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/코드잇/1부터 n까지의 합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/코드잇/merge 함수 작성.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/코드잇/partition 함수 구현하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/코드잇/퀵 정렬 구현하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/코드잇/합병 정렬 구현하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/코드잇/새꼼달꼼 장사 Memoization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/코드잇/새꼼달꼼 장사 Tabulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/코드잇/퀵 정렬 더 멋있게 구현하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/코드잇/피보나치 수열 Memoization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/코드잇/피보나치 수열 Tabulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/코드잇/피보나치 수열 공간 최적화.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200225/SW Expert/3307_최장 증가 부분 수열 D3.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200228/1952_수영장.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200227/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200227/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/asd.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/미해결/SW Expert/3282_Knapsack D3.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/미해결/SW Expert/3282_Knapsack D3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/미해결/SW Expert/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/미해결/SW Expert/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200228/1952_수영장.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200228/1952_수영장.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/코드잇/partition 함수 구현하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/코드잇/partition 함수 구현하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/코드잇/퀵 정렬 구현하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/코드잇/퀵 정렬 구현하기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,92 +54,8 @@
       <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_02\20200225\SW Expert" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.asd">
-    <configuration name="1952_수영장" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200228" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200228/1952_수영장.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5658_보물상자 비밀번호" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200228" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_02/20200228/5658_보물상자 비밀번호.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BOJ_1941_소문난 칠공주" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_02/20200228" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Hi\Desktop\TIL\practice\미해결\BOJ\BOJ_1941_소문난 칠공주.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="asd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/asd.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="partition 함수 구현하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.새꼼달꼼 장사 Tabulation">
+    <configuration name="피보나치 수열 공간 최적화" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,7 +67,91 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/코드잇/partition 함수 구현하기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/코드잇/피보나치 수열 공간 최적화.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="피보나치 수열 Memoization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/코드잇" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/코드잇/피보나치 수열 Memoization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="새꼼달꼼 장사 Memoization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/코드잇" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/코드잇/새꼼달꼼 장사 Memoization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="피보나치 수열 Tabulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/코드잇" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/코드잇/피보나치 수열 Tabulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="새꼼달꼼 장사 Tabulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/코드잇" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/코드잇/새꼼달꼼 장사 Tabulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,19 +161,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.partition 함수 구현하기" />
-      <item itemvalue="Python.1952_수영장" />
-      <item itemvalue="Python.BOJ_1941_소문난 칠공주" />
-      <item itemvalue="Python.5658_보물상자 비밀번호" />
-      <item itemvalue="Python.asd" />
+      <item itemvalue="Python.피보나치 수열 Memoization" />
+      <item itemvalue="Python.피보나치 수열 Tabulation" />
+      <item itemvalue="Python.피보나치 수열 공간 최적화" />
+      <item itemvalue="Python.새꼼달꼼 장사 Memoization" />
+      <item itemvalue="Python.새꼼달꼼 장사 Tabulation" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.asd" />
-        <item itemvalue="Python.5658_보물상자 비밀번호" />
-        <item itemvalue="Python.BOJ_1941_소문난 칠공주" />
-        <item itemvalue="Python.1952_수영장" />
-        <item itemvalue="Python.partition 함수 구현하기" />
+        <item itemvalue="Python.새꼼달꼼 장사 Tabulation" />
+        <item itemvalue="Python.새꼼달꼼 장사 Memoization" />
+        <item itemvalue="Python.피보나치 수열 공간 최적화" />
+        <item itemvalue="Python.피보나치 수열 Tabulation" />
+        <item itemvalue="Python.피보나치 수열 Memoization" />
       </list>
     </recent_temporary>
   </component>
@@ -230,38 +220,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="804" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581134695624" />
-    <state width="645" height="10" key="GridCell.Tab.0.bottom" timestamp="1582896008767">
+    <state width="791" height="11" key="GridCell.Tab.0.bottom" timestamp="1582971528595">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="10" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582896008767" />
-    <state width="645" height="10" key="GridCell.Tab.0.center" timestamp="1582896008767">
+    <state width="791" height="11" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582971528595" />
+    <state width="791" height="11" key="GridCell.Tab.0.center" timestamp="1582971528595">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="10" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582896008767" />
-    <state width="645" height="10" key="GridCell.Tab.0.left" timestamp="1582896008767">
+    <state width="791" height="11" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582971528595" />
+    <state width="791" height="11" key="GridCell.Tab.0.left" timestamp="1582971528595">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="10" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582896008767" />
-    <state width="645" height="10" key="GridCell.Tab.0.right" timestamp="1582896008767">
+    <state width="791" height="11" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582971528595" />
+    <state width="791" height="11" key="GridCell.Tab.0.right" timestamp="1582971528595">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="10" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582896008767" />
-    <state width="645" height="10" key="GridCell.Tab.1.bottom" timestamp="1582896008767">
+    <state width="791" height="11" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582971528595" />
+    <state width="791" height="11" key="GridCell.Tab.1.bottom" timestamp="1582971528596">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="10" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582896008767" />
-    <state width="645" height="10" key="GridCell.Tab.1.center" timestamp="1582896008767">
+    <state width="791" height="11" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582971528596" />
+    <state width="791" height="11" key="GridCell.Tab.1.center" timestamp="1582971528595">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="10" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582896008767" />
-    <state width="645" height="10" key="GridCell.Tab.1.left" timestamp="1582896008767">
+    <state width="791" height="11" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582971528595" />
+    <state width="791" height="11" key="GridCell.Tab.1.left" timestamp="1582971528595">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="10" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582896008767" />
-    <state width="645" height="10" key="GridCell.Tab.1.right" timestamp="1582896008767">
+    <state width="791" height="11" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582971528595" />
+    <state width="791" height="11" key="GridCell.Tab.1.right" timestamp="1582971528596">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="10" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582896008767" />
+    <state width="791" height="11" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582971528596" />
     <state x="497" y="73" key="RollbackChangesDialog" timestamp="1582610807566">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -24,4 +24,4 @@ for t in range(T):
     min_ans = y
     go(1, 0)
 
-    print('#{} {}'.format(t+1,min_ans))
+    print('#{} {}'.format(t + 1, min_ans))
