@@ -1,38 +1,35 @@
 import sys
+
 sys.stdin = open('input.txt')
 
 dr = [0, 1, 0, -1]
 dc = [1, 0, -1, 0]
 
-def dfs(r, c):
-    global cnt
-    for i in range(4):
-        nr = r + dr[i]
-        nc = c + dc[i]
-        if nr < 0 or nr >= N or nc < 0 or nc >= N:
-            continue
-        if arr[r][c] + 1 == arr[nr][nc]:
-            cnt += 1
-            dfs(nr, nc)
-
 T = int(input())
-
-for t in range(T):
+for tc in range(1, T + 1):
     N = int(input())
-    arr = [list(map(int, input().split())) for _ in range(N)]
+    rm = [list(map(int, input().split())) for i in range(N)]
+    v = [0] * (N * N + 1)
 
-    ans_cnt = 0
-    cnt_li = []
-    num_li = []
     for i in range(N):
         for j in range(N):
-            cnt = 1
-            dfs(i, j)
-            if ans_cnt <= cnt:
-                ans_cnt = cnt
-                cnt_li.append(cnt)
-                num_li.append(arr[i][j])
-    ch = cnt_li.index(ans_cnt)
-    ans_num = min(num_li[ch:])
+            for k in range(4):
+                nr = i + dr[k]
+                nc = j + dc[k]
+                if 0 <= nr < N and 0 <= nc < N and rm[i][j] + 1 == rm[nr][nc]:
+                    v[rm[i][j]] = 1
 
-    print('#{} {} {}'.format(t+1, ans_num, ans_cnt))
+    cnt = 0
+    maxV = 0
+    st = 0
+
+    for i in range(N * N, -1, -1):
+        if v[i] == 1:
+            cnt += 1
+        else:
+            if maxV <= cnt:
+                maxV = cnt
+                st = i + 1
+            cnt = 0
+
+    print("#{} {} {}".format(tc, st, maxV + 1))
