@@ -1,5 +1,7 @@
 import sys
+
 sys.stdin = open('input.txt', 'r')
+
 
 def bfs(V):
     queue = [V]
@@ -9,13 +11,13 @@ def bfs(V):
         if n not in visited:
             visited.append(n)
             cnt = 0
-            for i in range(1, N+1):
+            for i in range(1, N + 1):
                 if arr[n][i] == 1 and i not in visited:
                     queue.append(i)
                     cnt += 1
             if cnt == 0:
+                print(visited)
                 return visited
-    return visited
 
 
 T = int(input())
@@ -29,9 +31,9 @@ for t in range(T):
         arr[x][y] = arr[y][x] = 1
 
     maxlen = 1
-    for i in range(1, N+1):
+    for i in range(1, N + 1):
         tmp = len(bfs(i))
         if tmp > maxlen:
             maxlen = tmp
 
-    print('#{} {}'.format(t+1, maxlen))
+    print('#{} {}'.format(t + 1, maxlen))

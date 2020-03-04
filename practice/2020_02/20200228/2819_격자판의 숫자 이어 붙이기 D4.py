@@ -17,7 +17,6 @@ def go(k, r, c, current):
             else:
                 go(k + 1, nr, nc, next_num)
 
-
 T = int(input())
 
 for t in range(T):
