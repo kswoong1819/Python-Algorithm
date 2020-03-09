@@ -1,6 +1,3 @@
-import sys
-sys.stdin = open('../../2020_03/20200305/input.txt')
-
 T = int(input())
 
 for t in range(T):
@@ -8,10 +5,12 @@ for t in range(T):
 
     first = 1
     second = 1
-    for i in range(R):
+    for i in range(N):
         first *= N
         N -= 1
+    for i in range(R):
         second *= R
         R -= 1
 
-    print('#{} {}'.format(t+1, round(first/second)))
+    ans = round(first/second) % 1234567891
+    print('#{} {}'.format(t+1, ans))

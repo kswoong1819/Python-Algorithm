@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200308/1226_미로1 D4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200308/1868_파핑파핑 지뢰찾기 D4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200308/3459_승자 예측하기 D4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200308/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/코드잇/강남역 폭우 II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/코드잇/리스트 항목 합 탐색.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/코드잇/삼송전자 주식 분석.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/코드잇/중복되는 항목 찾기 II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/코드잇/출근하는 방법 I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/코드잇/출근하는 방법 II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200309/1219_길찾기 D4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200309/3131_100만 이하의 모든 소수 D3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200309/3347_올림픽 종목 투표 D4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200309/4408_자기 방으로 돌아가기 D4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200309/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/미해결/SW Expert/1824_혁진이의 프로그램 검증 D4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/asd.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/미해결/SW Expert/3131_100만 이하의 모든 소수 D3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/미해결/SW Expert/3307_최장 증가 부분 수열 D3.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/미해결/SW Expert/3307_최장 증가 부분 수열 D3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/미해결/SW Expert/5607_조합 D3.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/미해결/SW Expert/5607_조합 D3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/미해결/SW Expert/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/미해결/SW Expert/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,19 +48,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200309" />
+      <recent name="C:\Users\Hi\Desktop\TIL\practice\미해결\SW Expert" />
+      <recent name="C:\Users\Hi\Desktop\TIL\practice" />
+      <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200305" />
+      <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200303" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Hi\Desktop\TIL\practice\코드잇" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Hi\Desktop\TIL\practice" />
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\미해결\SW Expert" />
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200305" />
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200303" />
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200302" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.1868_파핑파핑 지뢰찾기 D4">
-    <configuration name="강남역 폭우 II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.asd">
+    <configuration name="3131_100만 이하의 모든 소수 D3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/코드잇" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/미해결/SW Expert" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/코드잇/강남역 폭우 II.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200309\3131_100만 이하의 모든 소수 D3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="리스트 항목 합 탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3347_올림픽 종목 투표 D4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/코드잇" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200309" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/코드잇/리스트 항목 합 탐색.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200309/3347_올림픽 종목 투표 D4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1226_미로1 D4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4408_자기 방으로 돌아가기 D4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200308" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200309" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200308/1226_미로1 D4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200309/4408_자기 방으로 돌아가기 D4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1868_파핑파핑 지뢰찾기 D4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5607_조합 D3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,32 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200308" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/미해결/SW Expert" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200308/1868_파핑파핑 지뢰찾기 D4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3459_승자 예측하기 D4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200308" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200308/3459_승자 예측하기 D4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/미해결/SW Expert/5607_조합 D3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,19 +166,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.리스트 항목 합 탐색" />
-      <item itemvalue="Python.3459_승자 예측하기 D4" />
+      <item itemvalue="Python.3347_올림픽 종목 투표 D4" />
+      <item itemvalue="Python.4408_자기 방으로 돌아가기 D4" />
+      <item itemvalue="Python.3131_100만 이하의 모든 소수 D3" />
+      <item itemvalue="Python.5607_조합 D3" />
       <item itemvalue="Python.asd" />
-      <item itemvalue="Python.1226_미로1 D4" />
-      <item itemvalue="Python.1868_파핑파핑 지뢰찾기 D4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1868_파핑파핑 지뢰찾기 D4" />
         <item itemvalue="Python.asd" />
-        <item itemvalue="Python.1226_미로1 D4" />
-        <item itemvalue="Python.3459_승자 예측하기 D4" />
-        <item itemvalue="Python.리스트 항목 합 탐색" />
+        <item itemvalue="Python.5607_조합 D3" />
+        <item itemvalue="Python.3131_100만 이하의 모든 소수 D3" />
+        <item itemvalue="Python.4408_자기 방으로 돌아가기 D4" />
+        <item itemvalue="Python.3347_올림픽 종목 투표 D4" />
       </list>
     </recent_temporary>
   </component>
@@ -251,42 +229,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="567" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583674634345" />
-    <state x="804" y="118" key="FileChooserDialogImpl" timestamp="1581134695624">
+    <state x="804" y="118" key="FileChooserDialogImpl" timestamp="1583715016892">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="804" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581134695624" />
-    <state width="645" height="153" key="GridCell.Tab.0.bottom" timestamp="1583677432658">
+    <state x="804" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583715016892" />
+    <state width="1344" height="153" key="GridCell.Tab.0.bottom" timestamp="1583759543529">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="153" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583677432658" />
-    <state width="645" height="153" key="GridCell.Tab.0.center" timestamp="1583677432657">
+    <state width="1344" height="153" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583759543529" />
+    <state width="1344" height="153" key="GridCell.Tab.0.center" timestamp="1583759543528">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="153" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583677432657" />
-    <state width="645" height="153" key="GridCell.Tab.0.left" timestamp="1583677432657">
+    <state width="1344" height="153" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583759543528" />
+    <state width="1344" height="153" key="GridCell.Tab.0.left" timestamp="1583759543528">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="153" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583677432657" />
-    <state width="645" height="153" key="GridCell.Tab.0.right" timestamp="1583677432657">
+    <state width="1344" height="153" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583759543528" />
+    <state width="1344" height="153" key="GridCell.Tab.0.right" timestamp="1583759543528">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="153" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583677432657" />
-    <state width="645" height="2" key="GridCell.Tab.1.bottom" timestamp="1583677280562">
+    <state width="1344" height="153" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583759543528" />
+    <state width="645" height="34" key="GridCell.Tab.1.bottom" timestamp="1583751044462">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="2" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583677280562" />
-    <state width="645" height="2" key="GridCell.Tab.1.center" timestamp="1583677280562">
+    <state width="645" height="34" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583751044462" />
+    <state width="645" height="34" key="GridCell.Tab.1.center" timestamp="1583751044462">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="2" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583677280562" />
-    <state width="645" height="2" key="GridCell.Tab.1.left" timestamp="1583677280562">
+    <state width="645" height="34" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583751044462" />
+    <state width="645" height="34" key="GridCell.Tab.1.left" timestamp="1583751044461">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="2" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583677280562" />
-    <state width="645" height="2" key="GridCell.Tab.1.right" timestamp="1583677280562">
+    <state width="645" height="34" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583751044461" />
+    <state width="645" height="34" key="GridCell.Tab.1.right" timestamp="1583751044462">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="2" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583677280562" />
+    <state width="645" height="34" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583751044462" />
     <state x="497" y="73" key="RollbackChangesDialog" timestamp="1582610807566">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -327,6 +305,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="324" y="79" width="700" height="530" key="recent.locations.popup/0.0.1366.728@0.0.1366.728" timestamp="1580737514716" />
+    <state x="766" y="5" key="refactoring.ChangeSignatureDialog" timestamp="1583717476081">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="766" y="5" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1583717476081" />
     <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583677295506">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -334,182 +316,13 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/20200130/all.py</url>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200203/SW Expert/1288_새로운 불면증 치료법_D2.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200204/SW Expert/1961_숫자 배열 회전_D2.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200207/Solving Club/1979_어디에 단어가 들어갈 수 있을까_2.py</url>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Dropbox/SSAFY_대전_3기_2반/200206_문제풀이/4615_오셀로.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200208/5356_의석이의 세로로 말해요.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200209/2001_파리 퇴치.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200210/class.py</url>
-          <line>48</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200212/SW Expert/4873_반복문자 지우기_김성웅.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200213/SW Expert/1946_간단한 압축 풀기 D2.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200214/SW Expert/1859_백만 장자 프로젝트 D2.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200215/SW Expert/1230_암호문3 D3.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200217/SW Expert/1224_계산기3 D4.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="106" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200218/4880_토너먼트 카드게임.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="120" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200222/SW Expert/1225_암호생성기.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="127" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200223/BOJ/1193_분수찾기.py</url>
-          <option name="timeStamp" value="132" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/미해결/SW Expert/3131_100만 이하의 모든 소수 D3.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="133" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/JUNGOL/138_반복제어문2 - 형성평가9.py</url>
-          <option name="timeStamp" value="135" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/JUNGOL/141_반복제어문3 - 형성평가2.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="136" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200227/1486_장훈이의 높은 선반 D4.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="153" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/코드잇/합병 정렬 구현하기.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="158" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/코드잇/합병 정렬 구현하기.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="159" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/미해결/SW Expert/3307_최장 증가 부분 수열 D3.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="163" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200228/5789. 현주의 상자 바꾸기 D3.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="168" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/미해결/BOJ/BOJ_1941_소문난 칠공주.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="174" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_03/20200303/1865_동철이의 일 분배 D4.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="196" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_03/20200303/4012_요리사.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="206" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_03/20200303/BOJ_11724_연결 요소의 개수.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="212" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_03/20200304/BOJ_ 2178_미로 탐색.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="225" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/미해결/SW Expert/2814_최장 경로 D3.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="231" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_03/20200303/3752_가능한 시험 점수 D4.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="239" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/미해결/BOJ/7576_토마토.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="241" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/코드잇/투자 귀재 규식이 III.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="242" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_03/20200308/1226_미로1 D4.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="246" />
-        </line-breakpoint>
-      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="m" />
-        <watch expression="m" />
-        <watch expression="m" />
-        <watch expression="m" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
