@@ -1,39 +1,33 @@
-def go(num, cnt):
-    if num == 0:
-        return
-    p = check(num)
-    if p[0]:
-        global ans
-        cur = p[1] + cnt + 1
-        if ans == -1 or ans > cur:
-            ans = cur
-        return
-    for x, y in d:
-        if x != 0 and x != 1:
-            if num % x == 0:
-                go(num // x, cnt + y + 1)
-    return
+import sys
+sys.stdin = open('input.txt')
 
+dr = [0, 0, 0, 1, 1]
+dc = [0, 0, 1, 1, 0]
 
-def check(num):
-    l = 0
-    while num > 0:
-        if not broken[num % 10]:
-            return False, 0
-        l += 1
-        num //= 10
-    return True, l
+pipe = [[], [], [2, 3], [2, 3, 4], [3, 4]]
 
+def bfs(st, ed):
+    q = [st]
+    while q:
+        r, c = q.pop()
+        for i in pipe[room[r-1][c-1]]:
+            nr = r + dr[i]
+            nc = c + dc[i]
+            if 0 < nr <= N and 0 < nc <= N:
+                if i == 3:
+                    if room[nr-2][nc-1] == 1 or room[nr-1][nc-2] == 1:
+                        continue
+                if room[nr-1][nc-1] != 1:
+                    visited[nr][nc] += 1
+                    room[nr-1][nc-1] = i
+                    if (nr, nc) != ed:
+                        q.append((nr, nc))
+    return visited[N][N]
 
-for t in range(int(input())):
-    broken = list(map(int, input().split()))
-    dap = int(input())
-    d = []
-    for i in range(2, int(dap ** (1 / 2)) + 1):
-        if dap % i == 0:
-            a = check(i)
-            if a[0]:
-                d.append((i, a[1]))
-    ans = -1
-    go(dap, 0)
-    print('#{} {}'.format(t + 1, ans))
+N = int(input())
+room = [list(map(int, input().split())) for _ in range(N)]
+visited = [[0] * (N+1) for _ in range(N+1)]
+room[0][1] = visited[1][2] = 2
+
+ans = bfs((1, 2), (N, N))
+print(ans)

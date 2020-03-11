@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200310/1808_지희의 고장난 계산기 D4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200310/3809_화섭이의 정수 나열 D3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200310/4676_늘어지는 소리 만들기 D3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200310/7193_승현이의 수학공부 D3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200310/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/미해결/SW Expert/3349_최솟값으로 이동하기 D4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200311/BOJ_17070_파이프 옮기기1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200311/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/미해결/BOJ/BOJ_16637_괄호 추가하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/미해결/SW Expert/4613_러시아 국기 같은 깃발 D4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_03/20200309/1219_길찾기 D4.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_03/20200309/1219_길찾기 D4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_03/20200309/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_03/20200309/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200215/SW Expert/1230_암호문3 D3.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200215/1230_암호문3 D3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200215/SW Expert/4613_러시아 국기 같은 깃발 D4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_02/20200215/SW Expert/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_02/20200215/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/asd.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,19 +45,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hi\Desktop\TIL\practice\미해결\SW Expert" />
+      <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_02\20200215" />
+      <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200311" />
+      <recent name="C:\Users\Hi\Desktop\TIL\practice\미해결\BOJ" />
+      <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200309" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Hi\Desktop\TIL\practice\코드잇" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\미해결\SW Expert" />
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200309" />
-      <recent name="C:\Users\Hi\Desktop\TIL\practice" />
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200305" />
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200303" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.5293_이진 문자열 복원 D3">
-    <configuration name="1808_지희의 고장난 계산기 D4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.4613_러시아 국기 같은 깃발 D4">
+    <configuration name="4613_러시아 국기 같은 깃발 D4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,74 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200310" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200311" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200310/1808_지희의 고장난 계산기 D4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3349_최솟값으로 이동하기 D4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200310" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Hi\Desktop\TIL\practice\미해결\SW Expert\3349_최솟값으로 이동하기 D4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3809_화섭이의 정수 나열 D3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200310" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200310/3809_화섭이의 정수 나열 D3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4676_늘어지는 소리 만들기 D3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200310" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200310/4676_늘어지는 소리 만들기 D3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Hi\Desktop\TIL\practice\미해결\SW Expert\4613_러시아 국기 같은 깃발 D4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,20 +99,83 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="BOJ_16637_괄호 추가하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200311" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Hi\Desktop\TIL\practice\미해결\BOJ\BOJ_16637_괄호 추가하기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ_17070_파이프 옮기기1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200311" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200311/BOJ_17070_파이프 옮기기1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="asd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/asd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.1808_지희의 고장난 계산기 D4" />
-      <item itemvalue="Python.3809_화섭이의 정수 나열 D3" />
-      <item itemvalue="Python.3349_최솟값으로 이동하기 D4" />
-      <item itemvalue="Python.4676_늘어지는 소리 만들기 D3" />
       <item itemvalue="Python.5293_이진 문자열 복원 D3" />
+      <item itemvalue="Python.BOJ_16637_괄호 추가하기" />
+      <item itemvalue="Python.asd" />
+      <item itemvalue="Python.BOJ_17070_파이프 옮기기1" />
+      <item itemvalue="Python.4613_러시아 국기 같은 깃발 D4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4613_러시아 국기 같은 깃발 D4" />
+        <item itemvalue="Python.BOJ_17070_파이프 옮기기1" />
+        <item itemvalue="Python.asd" />
+        <item itemvalue="Python.BOJ_16637_괄호 추가하기" />
         <item itemvalue="Python.5293_이진 문자열 복원 D3" />
-        <item itemvalue="Python.4676_늘어지는 소리 만들기 D3" />
-        <item itemvalue="Python.3349_최솟값으로 이동하기 D4" />
-        <item itemvalue="Python.3809_화섭이의 정수 나열 D3" />
-        <item itemvalue="Python.1808_지희의 고장난 계산기 D4" />
       </list>
     </recent_temporary>
   </component>
@@ -227,57 +226,58 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="567" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583674634345" />
-    <state x="804" y="118" key="FileChooserDialogImpl" timestamp="1583715016892">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="942" y="139" key="FileChooserDialogImpl" timestamp="1583907552989">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="804" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583715016892" />
-    <state width="762" height="216" key="GridCell.Tab.0.bottom" timestamp="1583851163953">
+    <state x="942" y="139" key="FileChooserDialogImpl/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583907552988" />
+    <state width="762" height="122" key="GridCell.Tab.0.bottom" timestamp="1583936224245">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="645" height="157" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583824000699" />
-    <state width="762" height="216" key="GridCell.Tab.0.bottom/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583851163953" />
+    <state width="762" height="122" key="GridCell.Tab.0.bottom/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583936224245" />
     <state width="1578" height="222" key="GridCell.Tab.0.bottom/1600.60.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583840225017" />
-    <state width="762" height="216" key="GridCell.Tab.0.center" timestamp="1583851163953">
+    <state width="762" height="122" key="GridCell.Tab.0.center" timestamp="1583936224245">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="645" height="157" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583824000699" />
-    <state width="762" height="216" key="GridCell.Tab.0.center/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583851163953" />
+    <state width="762" height="122" key="GridCell.Tab.0.center/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583936224245" />
     <state width="1578" height="222" key="GridCell.Tab.0.center/1600.60.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583840225017" />
-    <state width="762" height="216" key="GridCell.Tab.0.left" timestamp="1583851163953">
+    <state width="762" height="122" key="GridCell.Tab.0.left" timestamp="1583936224245">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="645" height="157" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583824000699" />
-    <state width="762" height="216" key="GridCell.Tab.0.left/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583851163953" />
+    <state width="762" height="122" key="GridCell.Tab.0.left/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583936224245" />
     <state width="1578" height="222" key="GridCell.Tab.0.left/1600.60.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583840225017" />
-    <state width="762" height="216" key="GridCell.Tab.0.right" timestamp="1583851163953">
+    <state width="762" height="122" key="GridCell.Tab.0.right" timestamp="1583936224245">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="645" height="157" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583824000699" />
-    <state width="762" height="216" key="GridCell.Tab.0.right/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583851163953" />
+    <state width="762" height="122" key="GridCell.Tab.0.right/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583936224245" />
     <state width="1578" height="222" key="GridCell.Tab.0.right/1600.60.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583840225017" />
-    <state width="762" height="216" key="GridCell.Tab.1.bottom" timestamp="1583851163954">
+    <state width="762" height="122" key="GridCell.Tab.1.bottom" timestamp="1583936224245">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="645" height="173" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583823977660" />
-    <state width="762" height="216" key="GridCell.Tab.1.bottom/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583851163954" />
+    <state width="762" height="122" key="GridCell.Tab.1.bottom/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583936224245" />
     <state width="1578" height="222" key="GridCell.Tab.1.bottom/1600.60.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583840225018" />
-    <state width="762" height="216" key="GridCell.Tab.1.center" timestamp="1583851163954">
+    <state width="762" height="122" key="GridCell.Tab.1.center" timestamp="1583936224245">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="645" height="173" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583823977660" />
-    <state width="762" height="216" key="GridCell.Tab.1.center/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583851163954" />
+    <state width="762" height="122" key="GridCell.Tab.1.center/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583936224245" />
     <state width="1578" height="222" key="GridCell.Tab.1.center/1600.60.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583840225018" />
-    <state width="762" height="216" key="GridCell.Tab.1.left" timestamp="1583851163954">
+    <state width="762" height="122" key="GridCell.Tab.1.left" timestamp="1583936224245">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="645" height="173" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583823977659" />
-    <state width="762" height="216" key="GridCell.Tab.1.left/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583851163954" />
+    <state width="762" height="122" key="GridCell.Tab.1.left/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583936224245" />
     <state width="1578" height="222" key="GridCell.Tab.1.left/1600.60.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583840225018" />
-    <state width="762" height="216" key="GridCell.Tab.1.right" timestamp="1583851163954">
+    <state width="762" height="122" key="GridCell.Tab.1.right" timestamp="1583936224245">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="645" height="173" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583823977660" />
-    <state width="762" height="216" key="GridCell.Tab.1.right/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583851163954" />
+    <state width="762" height="122" key="GridCell.Tab.1.right/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583936224245" />
     <state width="1578" height="222" key="GridCell.Tab.1.right/1600.60.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583840225018" />
     <state x="497" y="73" key="RollbackChangesDialog" timestamp="1582610807566">
       <screen x="0" y="0" width="1366" height="728" />
@@ -334,24 +334,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/asd.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/asd.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/asd.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/practice/미해결/SW Expert/3349_최솟값으로 이동하기 D4.py</url>
           <line>9</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/미해결/BOJ/BOJ_16637_괄호 추가하기.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/미해결/SW Expert/4613_러시아 국기 같은 깃발 D4.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
