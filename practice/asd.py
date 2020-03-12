@@ -1,33 +1,34 @@
-import sys
-sys.stdin = open('input.txt')
+from collections import deque
+from sys import stdin
+input = stdin.readline
 
-dr = [0, 0, 0, 1, 1]
-dc = [0, 0, 1, 1, 0]
+n, m = map(int, input().split())
+a = [list(input().strip()) for _ in range(n)]
+check = [[False]*m for _ in range(n)]
+dx = (-1, 0, 1, 0)
+dy = (0, 1, 0, -1)
 
-pipe = [[], [], [2, 3], [2, 3, 4], [3, 4]]
-
-def bfs(st, ed):
-    q = [st]
+def bfs(i, j):
+    q = deque()
+    q.append((i, j, 0))
+    check[i][j] = True
+    dist = 0
     while q:
-        r, c = q.pop()
-        for i in pipe[room[r-1][c-1]]:
-            nr = r + dr[i]
-            nc = c + dc[i]
-            if 0 < nr <= N and 0 < nc <= N:
-                if i == 3:
-                    if room[nr-2][nc-1] == 1 or room[nr-1][nc-2] == 1:
-                        continue
-                if room[nr-1][nc-1] != 1:
-                    visited[nr][nc] += 1
-                    room[nr-1][nc-1] = i
-                    if (nr, nc) != ed:
-                        q.append((nr, nc))
-    return visited[N][N]
+        x, y, d = q.popleft()
+        for k in range(4):
+            nx, ny = x+dx[k], y+dy[k]
+            if nx < 0 or nx >= n or ny < 0 or ny >= m:
+                continue
+            if check[nx][ny] is False and a[nx][ny] == 'L':
+                q.append((nx, ny, d+1))
+                check[nx][ny] = True
+                dist = max(dist, d+1)
+    return dist
 
-N = int(input())
-room = [list(map(int, input().split())) for _ in range(N)]
-visited = [[0] * (N+1) for _ in range(N+1)]
-room[0][1] = visited[1][2] = 2
-
-ans = bfs((1, 2), (N, N))
+ans = 0
+for i in range(n):
+    for j in range(m):
+        if a[i][j] == 'L':
+            check = [[False]*m for _ in range(n)]
+            ans = max(ans, bfs(i, j))
 print(ans)

@@ -43,6 +43,6 @@
 - HTML/CSS 의 기본 특징
   1. 위에서 부터 아래로 순차적으로 나열
   2. display 속성을 통해 요소가 보이도록
-  3. position
-  4. float
+  3. position 속성을 통해 위치 자체를 변경 (absolut 주의)
+  4. float 속성을 통해 떠있도록 만듬
 

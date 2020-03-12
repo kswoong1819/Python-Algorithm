@@ -1,24 +1,11 @@
-import sys
-
-sys.stdin = open('input.txt', 'r')
-
-
-def bfs(V):
-    queue = [V]
-    visited = []
-    while queue:
-        n = queue.pop()
-        if n not in visited:
-            visited.append(n)
-            cnt = 0
-            for i in range(1, N + 1):
-                if arr[n][i] == 1 and i not in visited:
-                    queue.append(i)
-                    cnt += 1
-            if cnt == 0:
-                print(visited)
-                return visited
-
+def dfs(visited, V, cnt):
+    global ans
+    for i in range(1, N+1):
+        if arr[V][i] == 1 and i not in visited:
+            visited.append(i)
+            ans = max(ans, cnt+1)
+            dfs(visited, i, cnt+1)
+    return
 
 T = int(input())
 
@@ -32,8 +19,9 @@ for t in range(T):
 
     maxlen = 1
     for i in range(1, N + 1):
-        tmp = len(bfs(i))
-        if tmp > maxlen:
-            maxlen = tmp
+        ans = 0
+        dfs([i], i, 1)
+        if ans > maxlen:
+            maxlen = ans
 
     print('#{} {}'.format(t + 1, maxlen))
