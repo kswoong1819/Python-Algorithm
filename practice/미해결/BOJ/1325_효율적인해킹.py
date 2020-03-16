@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input.txt')
+sys.stdin = open('../../2020_02/20200220/BOJ/input.txt')
 
 def dfs(visited, V):
     for i in range(1, N+1):
