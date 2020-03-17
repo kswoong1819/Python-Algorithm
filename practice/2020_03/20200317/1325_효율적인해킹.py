@@ -1,31 +1,38 @@
 import sys
-sys.stdin = open('../../2020_02/20200220/BOJ/input.txt')
+input = sys.stdin.readline
+from collections import deque
 
-def dfs(visited, V):
-    for i in range(1, N+1):
-        if arr[V][i] == 1 and i not in visited:
-            visited.append(i)
-            dfs(visited, i)
-            if i in visited:
-                return visited
+def bfs(st):
+    q = deque()
+    q.append(st)
+    c = [0] * (N+1)
+    c[st] = 1
+    ans = 0
+    while q:
+        n = q.pop(0)
+        ans += 1
+        for i in arr[n]:
+            if c[i] == 0:
+                c[i] = 1
+                q.append(i)
+    return ans
 
 N, M = map(int, input().split())
-arr = [[0]*(N+1) for _ in range(N+1)]
+arr = [[] for _ in range(N+1)]
 
 for i in range(M):
     x, y = map(int, input().split())
-    arr[y][x] = 1
+    arr[y].append(x)
 
 count_list = []
-max_com = 0
+max_cnt = 0
 for i in range(1, N+1):
-    if dfs([i], i):
-        tmp = len(dfs([i], i))
-        if max_com < tmp:
-            max_com = tmp
-            count_list = []
-        if max_com == tmp:
+    if arr[i]:
+        tmp = bfs(i)
+        if max_cnt <= tmp:
+            if max_cnt < tmp:
+                count_list = []
+            max_cnt = tmp
             count_list.append(i)
 
-for i in count_list:
-    print(i, end=' ')
+print(' '.join(map(str, count_list)))

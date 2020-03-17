@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('../../미해결/SW Expert/input.txt')
+sys.stdin = open('input.txt')
 
 
 def bfs(st):
