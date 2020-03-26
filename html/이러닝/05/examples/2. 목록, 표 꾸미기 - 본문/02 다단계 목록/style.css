@@ -1,7 +1,0 @@
-ul>li {
-	list-style-type: square;
-}
-
-ul>li>ol>li {
-	list-style-type: lower-alpha;
-}
