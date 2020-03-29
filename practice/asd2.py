@@ -1,30 +1,13 @@
-di = [0, 1, 0, -1]
-dj = [1, 0, -1, 0]
-
-pipe = [[], [0, 1, 2, 3], [1, 3], [0, 2], [0, 3], [0, 1], [1, 2], [2, 3]]
-
-
-def f(N, M, R, C, L):
-    q = [(R, C)]
-    v = [[0] * M for _ in range(N)]
-    v[R][C] = 1  # 시간
-    pos = [0] * (L + 1)  # 시간대별 가능 위치 수
-    while q:
-        i, j = q.pop(0)
-        pos[v[i][j]] += 1  # 시간대에 도착하는 칸 번호
-        if v[i][j] < L:  # L초 미만에 도착하는 칸이면
-            for x in pipe[tunnel[i][j]]:  # 새롭게 진입할 칸 확인
-                ni = i + di[x]
-                nj = j + dj[x]
-                if 0 <= ni < N and 0 <= nj < M and tunnel[ni][nj] != 0 and v[ni][nj] == 0 and (x + 2) % 4 in pipe[tunnel[ni][nj]]:
-                    v[ni][nj] = v[i][j] + 1  # 이동할 수 있는 칸에 시간
-                    q.append((ni, nj))
-    return sum(pos)
+def solution(k, room_number):
+    answer = []
+    rooms = [0] * (k+1)
+    for number in room_number:
+        if rooms[number] == 0:
+            rooms[number] = 1
+            answer.append(number)
+        else:
+            find(0, k, number)
+    return answer
 
 
-T = int(input())
-for t in range(T):
-    N, M, R, C, L = map(int, input().split())
-    tunnel = [list(map(int, input().split())) for _ in range(N)]
-    r = f(N, M, R, C, L)
-    print('#{} {}'.format(t + 1, r))
+print(solution(10, [1,3,4,1,3,1]))
