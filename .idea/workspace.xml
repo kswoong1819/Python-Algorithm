@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200329/5097_회전 d2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200329/5099_피자 굽기 D3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200329/5105_미로의 거리 D3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200329/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/5102_노드의 거리 D2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/7701_염라대왕의 이름 정렬 D4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_11279_최대힙.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_11286_절대값 힙.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_1504_특정한 최단 경로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_1655_가운데로 말해요.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_1927_최소힙.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_7569_토마토(3차원).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python 과목평가/파이썬 과목평가.md" beforeDir="false" afterPath="$PROJECT_DIR$/python 과목평가/파이썬 과목평가.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_03/20200329/5099_피자 굽기 D3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/미해결/BOJ/7576_토마토.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_7576_토마토.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,22 +45,22 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/practice/코드잇" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\코드잇" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200331" />
       <recent name="C:\Users\Hi\Desktop\TIL\practice\미해결\SW Expert" />
       <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200318" />
       <recent name="C:\Users\Hi\Desktop\TIL\practice\미해결\BOJ" />
       <recent name="C:\Users\Hi\Desktop\TIL\practice\미해결" />
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200316" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hi\Desktop\TIL\practice\코드잇" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5105_미로의 거리 D3">
-    <configuration name="5097_회전 d2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BOJ_1655_가운데로 말해요">
+    <configuration name="7701_염라대왕의 이름 정렬 D4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200329" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200331" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200329\5097_회전 d2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200331/7701_염라대왕의 이름 정렬 D4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5105_미로의 거리 D3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_11279_최대힙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200329" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200331" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200329/5105_미로의 거리 D3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_11279_최대힙.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_15686_치킨배달" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_11286_절대값 힙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200323" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200331" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200323/BOJ_15686_치킨배달.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_11286_절대값 힙.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_1753_최단경로" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_1655_가운데로 말해요" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200326" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200331" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200326/BOJ_1753_최단경로.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_1655_가운데로 말해요.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_2293_동전1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_1927_최소힙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200326" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200331" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200326/BOJ_2293_동전1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_1927_최소힙.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,19 +166,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.5097_회전 d2" />
-      <item itemvalue="Python.5105_미로의 거리 D3" />
-      <item itemvalue="Python.BOJ_15686_치킨배달" />
-      <item itemvalue="Python.BOJ_1753_최단경로" />
-      <item itemvalue="Python.BOJ_2293_동전1" />
+      <item itemvalue="Python.7701_염라대왕의 이름 정렬 D4" />
+      <item itemvalue="Python.BOJ_11279_최대힙" />
+      <item itemvalue="Python.BOJ_1927_최소힙" />
+      <item itemvalue="Python.BOJ_11286_절대값 힙" />
+      <item itemvalue="Python.BOJ_1655_가운데로 말해요" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5105_미로의 거리 D3" />
-        <item itemvalue="Python.5097_회전 d2" />
-        <item itemvalue="Python.BOJ_1753_최단경로" />
-        <item itemvalue="Python.BOJ_2293_동전1" />
-        <item itemvalue="Python.BOJ_15686_치킨배달" />
+        <item itemvalue="Python.BOJ_1655_가운데로 말해요" />
+        <item itemvalue="Python.BOJ_11286_절대값 힙" />
+        <item itemvalue="Python.BOJ_1927_최소힙" />
+        <item itemvalue="Python.BOJ_11279_최대힙" />
+        <item itemvalue="Python.7701_염라대왕의 이름 정렬 D4" />
       </list>
     </recent_temporary>
   </component>
@@ -236,62 +242,62 @@
     </state>
     <state x="804" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583715016892" />
     <state x="942" y="139" key="FileChooserDialogImpl/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583907552988" />
-    <state width="645" height="146" key="GridCell.Tab.0.bottom" timestamp="1585470392715">
+    <state width="645" height="146" key="GridCell.Tab.0.bottom" timestamp="1585662389482">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="146" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585470392715" />
+    <state width="645" height="146" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585662389482" />
     <state width="762" height="152" key="GridCell.Tab.0.bottom/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1584511863425" />
     <state width="1578" height="222" key="GridCell.Tab.0.bottom/1600.60.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583840225017" />
-    <state width="645" height="146" key="GridCell.Tab.0.center" timestamp="1585470392714">
+    <state width="645" height="146" key="GridCell.Tab.0.center" timestamp="1585662389482">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="146" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585470392714" />
+    <state width="645" height="146" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585662389482" />
     <state width="762" height="152" key="GridCell.Tab.0.center/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1584511863425" />
     <state width="1578" height="222" key="GridCell.Tab.0.center/1600.60.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583840225017" />
-    <state width="645" height="146" key="GridCell.Tab.0.left" timestamp="1585470392714">
+    <state width="645" height="146" key="GridCell.Tab.0.left" timestamp="1585662389482">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="146" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585470392714" />
+    <state width="645" height="146" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585662389482" />
     <state width="762" height="152" key="GridCell.Tab.0.left/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1584511863425" />
     <state width="1578" height="222" key="GridCell.Tab.0.left/1600.60.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583840225017" />
-    <state width="645" height="146" key="GridCell.Tab.0.right" timestamp="1585470392714">
+    <state width="645" height="146" key="GridCell.Tab.0.right" timestamp="1585662389482">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="146" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585470392714" />
+    <state width="645" height="146" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585662389482" />
     <state width="762" height="152" key="GridCell.Tab.0.right/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1584511863425" />
     <state width="1578" height="222" key="GridCell.Tab.0.right/1600.60.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583840225017" />
-    <state width="645" height="96" key="GridCell.Tab.1.bottom" timestamp="1585469867510">
+    <state width="645" height="96" key="GridCell.Tab.1.bottom" timestamp="1585662389471">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="96" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585469867510" />
+    <state width="645" height="96" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585662389471" />
     <state width="762" height="135" key="GridCell.Tab.1.bottom/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1584511797639" />
     <state width="1578" height="222" key="GridCell.Tab.1.bottom/1600.60.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583840225018" />
-    <state width="645" height="96" key="GridCell.Tab.1.center" timestamp="1585469867510">
+    <state width="645" height="96" key="GridCell.Tab.1.center" timestamp="1585662389470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="96" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585469867510" />
+    <state width="645" height="96" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585662389470" />
     <state width="762" height="135" key="GridCell.Tab.1.center/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1584511797638" />
     <state width="1578" height="222" key="GridCell.Tab.1.center/1600.60.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583840225018" />
-    <state width="645" height="96" key="GridCell.Tab.1.left" timestamp="1585469867510">
+    <state width="645" height="96" key="GridCell.Tab.1.left" timestamp="1585662389470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="96" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585469867510" />
+    <state width="645" height="96" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585662389470" />
     <state width="762" height="135" key="GridCell.Tab.1.left/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1584511797638" />
     <state width="1578" height="222" key="GridCell.Tab.1.left/1600.60.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583840225018" />
-    <state width="645" height="96" key="GridCell.Tab.1.right" timestamp="1585469867510">
+    <state width="645" height="96" key="GridCell.Tab.1.right" timestamp="1585662389470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="645" height="96" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585469867510" />
+    <state width="645" height="96" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585662389470" />
     <state width="762" height="135" key="GridCell.Tab.1.right/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1584511797638" />
     <state width="1578" height="222" key="GridCell.Tab.1.right/1600.60.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1583840225018" />
     <state x="497" y="73" key="RollbackChangesDialog" timestamp="1582610807566">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="497" y="73" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1582610807566" />
-    <state x="368" y="0" key="SettingsEditor" timestamp="1582272103611">
+    <state x="368" y="0" key="SettingsEditor" timestamp="1585654899533">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="368" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582272103611" />
+    <state x="368" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585654899533" />
     <state x="330" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580823592194">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -300,20 +306,20 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="386" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1582464116116" />
-    <state x="0" y="0" width="661" height="563" key="dock-window-1" timestamp="1585469939523">
+    <state x="0" y="0" width="683" height="728" key="dock-window-1" timestamp="1585655325623">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" width="661" height="563" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1585469939523" />
+    <state x="0" y="0" width="683" height="728" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1585655325623" />
     <state x="151" y="68" width="778" height="666" key="dock-window-1/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1584248408531" />
-    <state x="0" y="0" width="1099" height="657" key="dock-window-2" timestamp="1585222349227">
+    <state x="0" y="0" width="683" height="728" key="dock-window-2" timestamp="1585654900085">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" width="1099" height="657" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1585222349227" />
+    <state x="0" y="0" width="683" height="728" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1585654900085" />
     <state x="330" y="157" width="778" height="591" key="dock-window-2/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1584257792746" />
-    <state x="276" y="171" width="778" height="642" key="dock-window-3" timestamp="1584276693021">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="0" y="0" width="683" height="728" key="dock-window-3" timestamp="1585655692477">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" width="932" height="657" key="dock-window-3/0.0.1366.728@0.0.1366.728" timestamp="1583315573561" />
+    <state x="0" y="0" width="683" height="728" key="dock-window-3/0.0.1366.728@0.0.1366.728" timestamp="1585655692477" />
     <state x="276" y="171" width="778" height="642" key="dock-window-3/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1584276693021" />
     <state x="412" y="51" width="661" height="555" key="dock-window-4" timestamp="1583322779007">
       <screen x="0" y="0" width="1366" height="728" />
@@ -331,10 +337,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="766" y="5" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1583717476081" />
-    <state x="805" y="58" width="788" height="801" key="search.everywhere.popup" timestamp="1584362495940">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585652553174">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583677295506" />
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585652553174" />
     <state x="805" y="58" width="788" height="801" key="search.everywhere.popup/1600.132.1366.728/0.0.1600.860@0.0.1600.860" timestamp="1584362495940" />
   </component>
   <component name="XDebuggerManager">
@@ -379,6 +385,21 @@
           <url>file://$PROJECT_DIR$/practice/2020_03/20200323/BOJ_2636_치즈.py</url>
           <line>37</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/2020_03/20200331/5102_노드의 거리 D2.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/2020_03/20200331/5102_노드의 거리 D2.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/2020_03/20200331/BOJ_7569_토마토(3차원).py</url>
+          <line>49</line>
+          <option name="timeStamp" value="74" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
