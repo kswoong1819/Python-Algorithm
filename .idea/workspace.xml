@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/5102_노드의 거리 D2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/7701_염라대왕의 이름 정렬 D4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_11279_최대힙.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_11286_절대값 힙.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_1504_특정한 최단 경로.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_1655_가운데로 말해요.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_1927_최소힙.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_7569_토마토(3차원).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_03/20200331/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_03/20200329/5099_피자 굽기 D3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/미해결/BOJ/7576_토마토.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_7576_토마토.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_04/0401/BOJ_1956_운동.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_04/0401/BOJ_1956_운동.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
