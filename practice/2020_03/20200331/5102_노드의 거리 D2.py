@@ -1,8 +1,3 @@
-import sys
-
-sys.stdin = open('input.txt')
-
-
 def bfs(st, ed):
     q = [st]
     visited = []
