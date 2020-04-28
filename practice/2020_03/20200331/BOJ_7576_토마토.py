@@ -8,7 +8,7 @@ dr = [0, 0, -1, 1]
 dc = [1, -1, 0, 0]
 
 
-def dfs(start):
+def bfs(start):
     global cnt_zero
     q = deque()
     q += start
@@ -44,7 +44,7 @@ for i in range(N):
         elif n == 0:
             cnt_zero += 1
 
-result = dfs(li_one)
+result = bfs(li_one)
 
 if cnt_zero > 0:
     print('-1')
