@@ -1,4 +1,1 @@
-A = ['C']
-print(A)
-A += 'A'
-print(A)
+print(0xfffff)
