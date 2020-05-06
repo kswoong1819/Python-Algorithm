@@ -1,6 +1,6 @@
 import sys
 
-sys.stdin = open('input.txt')
+sys.stdin = open('../../2020_05/0506/input.txt')
 
 dr = [0, 1, 0, -1]
 dc = [1, 0, -1, 0]
@@ -17,8 +17,8 @@ def check():
                     nc = j + dc[z]
                     if nr < 0 or nr >= N or nc < -1 or nc > M:
                         continue
-                    nr %= 4
-                    nc %= 4
+                    nr %= M
+                    nc %= M
                     if arr[nr][nc] == 'x':
                         continue
                     if arr[i][j] == arr[nr][nc]:
@@ -43,6 +43,7 @@ def check():
                 elif arr[i][j] > avg:
                     arr[i][j] -= 1
                     total -= 1
+    return
 
 
 def rota(r, d, k):
@@ -69,7 +70,9 @@ for t in range(T):
     x, d, k = map(int, input().split())
     if total_cnt == 0:
         continue
-    for i in range(1, N - x + 1):
+    for i in range(1, N):
+        if i * x - 1 >= N:
+            break
         rota(i * x - 1, d, k)
 
     check()
