@@ -1,18 +1,13 @@
-import sys
-
-sys.stdin = open('input.txt')
-
-
 def check(card):
-    card.sort()
     flag = False
-    for i in range(len(card) - 2):
-        if card[i] == card[i + 1] == card[i + 2]:
+    for i in range(10):
+        if card[i] >= 3:
             flag = True
             break
-        if card[i] == card[i + 1] - 1 == card[i + 2] - 2:
-            flag = True
-            break
+        if card[i] > 0 and i < 8:
+            if card[i + 1] > 0 and card[i + 2] > 0:
+                flag = True
+                break
     return flag
 
 
@@ -21,18 +16,18 @@ T = int(input())
 for t in range(T):
     cards = list(map(int, input().split()))
 
-    player1 = []
-    player2 = []
+    player1 = [0] * 10
+    player2 = [0] * 10
 
     ans = 0
     for i in range(12):
         if i % 2 == 0:
-            player1.append(cards[i])
+            player1[cards[i]] += 1
             if check(player1):
                 ans = 1
                 break
         elif i % 2:
-            player2.append(cards[i])
+            player2[cards[i]] += 1
             if check(player2):
                 ans = 2
                 break
