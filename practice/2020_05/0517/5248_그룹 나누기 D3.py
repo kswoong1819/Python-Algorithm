@@ -1,8 +1,3 @@
-import sys
-
-sys.stdin = open('input.txt')
-
-
 def go(n, visited):
     visited[n] = 1
     for i in graph[n]:
