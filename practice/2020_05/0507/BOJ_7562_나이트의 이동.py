@@ -1,6 +1,3 @@
-import sys
-
-sys.stdin = open('input.txt')
 from collections import deque
 
 dr = [-1, -2, -2, -1, 1, 2, 2, 1]
