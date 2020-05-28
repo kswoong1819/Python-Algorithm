@@ -1,47 +1,39 @@
-from collections import deque
-dx = [1,-1, 0, 0]
-dy = [0, 0, -1, 1]
-dr = [-2, -1, 1, 2, -2, -1, 1, 2]
-dc = [-1, -2, -2, -1, 1, 2, 2, 1]
+import collections
 
-def bfs():
 
-    q = deque()
-    visited[0][0][0] = 1
-    q.append((0,0,0))
+def make_max_price():
+    dq = collections.deque()
+    dq.append((price_lst, n))
+    max_price = 0
+    f = False
+    if len(price) != len(set(price)):
+        f = True
 
-    while q:
-        r, c, z = q.popleft()
+    while dq:
+        p, cnt = dq.popleft()
+        if f or not cnt % 2:
+            tmp = int(''.join(p))
+            if tmp > max_price:
+                max_price = tmp
 
-        if r == H-1 and c == W-1 :
-            print(visited[r][c][z]-1)
-            return False
+        if cnt == 0:
 
-        for i in range(4):
-            nr = r + dx[i]
-            nc = c + dy[i]
-            if nr < 0 or nr >= H or nc < 0 or nc >= W:
-                continue
-            if arr[nr][nc] == 0 and visited[nr][nc][z] == 0:
-                visited[nr][nc][z] = visited[r][c][z]+1
-                q.append((nr, nc, z))
+            continue
 
-        if z < K:
-            for i in range(8):
-                nr = r + dr[i]
-                nc = c + dc[i]
-                if nr < 0 or nr >= H or nc < 0 or nc >= W :
-                    continue
-                if arr[nr][nc] == 0 and visited[nr][nc][z+1] == 0:
-                    visited[nr][nc][z+1] = visited[r][c][z] + 1
-                    q.append((nr, nc, z+1))
-    return True
+        for i in range(L):
+            for j in range(i + 1, L):
+                tmp = p[:]
+                tmp[i], tmp[j] = tmp[j], tmp[i]
+                if not (''.join(tmp) in price_set):
+                    price_set.add(''.join(tmp))
+                    dq.append((tmp, cnt - 1))
+    return max_price
 
-K = int(input())
-W, H = map(int, input().split())
-arr = [list(map(int, input().split())) for _ in range(H)]
 
-visited = [[[0]*(K+1) for _ in range(W)] for _ in range(H)]
-
-if bfs():
-    print(-1)
+T = int(input())
+for t in range(1, T + 1):
+    price, n = input().split()
+    price_lst, n = list(price), int(n)
+    L = len(price)
+    price_set = {price}
+    print('#%s %s' % (t, make_max_price()))
