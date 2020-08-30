@@ -1,6 +1,19 @@
-from collections import deque
+def solution(v):
+    x = []
+    y = []
+    for i in range(3):
+        a, b = v[i]
+        if a not in x:
+            x.append(a)
+        else:
+            x.remove(a)
+        if b not in y:
+            x.append(b)
+        else:
+            x.remove(b)
 
-q = deque([[1, 100], [2, 3], [3, 4], [4, 5]])
-a = sorted(q, key = lambda x: x[1])
-a.reverse()
-print(a)
+    answer = x + y
+
+    return answer
+
+print(solution([[1, 4], [3, 4], [3, 10]]))

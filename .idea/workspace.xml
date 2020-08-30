@@ -1,15 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/2020_07/0809/BOJ_1966_프린터 큐.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_07/0809/BOJ_2455_지능형 기차.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_07/0809/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_07/0809/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_07~12/0829/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_07~12/0829/BOJ_1436_영화감독 숌.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_07~12/0829/BOJ_2231_분해합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_07~12/0829/BOJ_7568_덩치.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_07~12/0829/BOJ_9205_맥주 마시면서 걸어가기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_07~12/0829/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TIL.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_07/0705/BOJ_19236_청소년 상어.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_07/0705/BOJ_19237_어른 상어.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_07/0705/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_07/0705/BOJ_19236_청소년 상어.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_07~12/0705/BOJ_19236_청소년 상어.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_07/0705/BOJ_19237_어른 상어.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_07~12/0705/BOJ_19237_어른 상어.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_07/0705/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_07~12/0705/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_07/0809/BOJ_1966_프린터 큐.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_07~12/0809/BOJ_1966_프린터 큐.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_07/0809/BOJ_2455_지능형 기차.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_07~12/0809/BOJ_2455_지능형 기차.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_07/0809/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_07~12/0809/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_07/0809/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_07~12/0809/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/asd.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/미해결/SW Expert/5653_줄기세포배양.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/미해결/SW Expert/5653_줄기세포배양.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +65,12 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\코드잇" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200331" />
       <recent name="C:\Users\Hi\Desktop\TIL\practice\미해결\SW Expert" />
@@ -54,9 +78,12 @@
       <recent name="C:\Users\Hi\Desktop\TIL\practice\미해결\BOJ" />
       <recent name="C:\Users\Hi\Desktop\TIL\practice\미해결" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hi\Desktop\TIL\practice\코드잇" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.BOJ_1966_프린터 큐">
-    <configuration name="BOJ_11286_절대값 힙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.asd">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200331" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_07~12/0829" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_11286_절대값 힙.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_07~12/0829/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_1655_가운데로 말해요" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_1436_영화감독 숌" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200331" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_07~12/0829" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_1655_가운데로 말해요.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_07~12/0829/BOJ_1436_영화감독 숌.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_1927_최소힙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_7568_덩치" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_03/20200331" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_07~12/0829" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_03/20200331/BOJ_1927_최소힙.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_07~12/0829/BOJ_7568_덩치.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_1966_프린터 큐" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_9205_맥주 마시면서 걸어가기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_07/0809" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_07~12/0829" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_07/0809/BOJ_1966_프린터 큐.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_07~12/0829/BOJ_9205_맥주 마시면서 걸어가기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_2455_지능형 기차" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="asd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,11 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_07/0809" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_07/0809/BOJ_2455_지능형 기차.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/asd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,22 +189,23 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.BOJ_1927_최소힙" />
-      <item itemvalue="Python.BOJ_11286_절대값 힙" />
-      <item itemvalue="Python.BOJ_1655_가운데로 말해요" />
-      <item itemvalue="Python.BOJ_2455_지능형 기차" />
-      <item itemvalue="Python.BOJ_1966_프린터 큐" />
+      <item itemvalue="Python.BOJ_7568_덩치" />
+      <item itemvalue="Python.BOJ_1436_영화감독 숌" />
+      <item itemvalue="Python.BOJ_9205_맥주 마시면서 걸어가기" />
+      <item itemvalue="Python.1" />
+      <item itemvalue="Python.asd" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.BOJ_1966_프린터 큐" />
-        <item itemvalue="Python.BOJ_2455_지능형 기차" />
-        <item itemvalue="Python.BOJ_1655_가운데로 말해요" />
-        <item itemvalue="Python.BOJ_11286_절대값 힙" />
-        <item itemvalue="Python.BOJ_1927_최소힙" />
+        <item itemvalue="Python.asd" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.BOJ_9205_맥주 마시면서 걸어가기" />
+        <item itemvalue="Python.BOJ_1436_영화감독 숌" />
+        <item itemvalue="Python.BOJ_7568_덩치" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -203,39 +231,54 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1094" height="2" key="GridCell.Tab.0.bottom" timestamp="1596977208370">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1126" height="105" key="GridCell.Tab.0.bottom" timestamp="1598696150037">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1094" height="2" key="GridCell.Tab.0.center" timestamp="1596977208370">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1126" height="105" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598696150037" />
+    <state width="1126" height="105" key="GridCell.Tab.0.center" timestamp="1598696150037">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1094" height="2" key="GridCell.Tab.0.left" timestamp="1596977208370">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1126" height="105" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598696150037" />
+    <state width="1126" height="105" key="GridCell.Tab.0.left" timestamp="1598696150037">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1094" height="2" key="GridCell.Tab.0.right" timestamp="1596977208370">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1126" height="105" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598696150037" />
+    <state width="1126" height="105" key="GridCell.Tab.0.right" timestamp="1598696150037">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1094" height="2" key="GridCell.Tab.1.bottom" timestamp="1596977208371">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1126" height="105" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598696150037" />
+    <state width="1126" height="105" key="GridCell.Tab.1.bottom" timestamp="1598696150037">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596977208371" />
-    <state width="1094" height="2" key="GridCell.Tab.1.center" timestamp="1596977208370">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1126" height="105" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598696150037" />
+    <state width="1126" height="105" key="GridCell.Tab.1.center" timestamp="1598696150037">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1094" height="2" key="GridCell.Tab.1.left" timestamp="1596977208370">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1126" height="105" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1598696150037" />
+    <state width="1126" height="105" key="GridCell.Tab.1.left" timestamp="1598696150037">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1094" height="2" key="GridCell.Tab.1.right" timestamp="1596977208370">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1126" height="105" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1598696150037" />
+    <state width="1126" height="105" key="GridCell.Tab.1.right" timestamp="1598696150037">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
+    <state width="1126" height="105" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1598696150037" />
+    <state x="555" y="60" key="SettingsEditor" timestamp="1598679877016">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598679877016" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -296,9 +339,19 @@
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_07/0809/BOJ_1966_프린터 큐.py</url>
+          <url>file://$PROJECT_DIR$/practice/2020_07~12/0809/BOJ_1966_프린터 큐.py</url>
           <line>5</line>
           <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/2020_07~12/0829/BOJ_9205_맥주 마시면서 걸어가기.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/asd.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="91" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
