@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/practice/2020_07~12/0918/BOJ_2638_치즈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_07~12/0918/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/asd2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,28 +68,7 @@
       <recent name="C:\Users\Hi\Desktop\TIL\practice\코드잇" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.asd2">
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_07~12/0829" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_07~12/0829/1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.BOJ_2638_치즈">
     <configuration name="BOJ_12865_평범한 배낭" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,6 +82,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_07~12/0830/BOJ_12865_평범한 배낭.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ_2638_치즈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_07~12/0918" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_07~12/0918/BOJ_2638_치즈.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,19 +175,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1" />
       <item itemvalue="Python.BOJ_12865_평범한 배낭" />
+      <item itemvalue="Python.asd2" />
       <item itemvalue="Python.asd" />
       <item itemvalue="Python.programmers_2_괄호 변환" />
-      <item itemvalue="Python.asd2" />
+      <item itemvalue="Python.BOJ_2638_치즈" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_2638_치즈" />
         <item itemvalue="Python.asd2" />
         <item itemvalue="Python.programmers_2_괄호 변환" />
         <item itemvalue="Python.BOJ_12865_평범한 배낭" />
         <item itemvalue="Python.asd" />
-        <item itemvalue="Python.1" />
       </list>
     </recent_temporary>
   </component>
@@ -220,46 +221,46 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="999" height="137" key="GridCell.Tab.0.bottom" timestamp="1600268211684">
+    <state width="1000" height="106" key="GridCell.Tab.0.bottom" timestamp="1600416467463">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="999" height="137" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600268211684" />
-    <state width="999" height="137" key="GridCell.Tab.0.center" timestamp="1600268211684">
+    <state width="1000" height="106" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
+    <state width="1000" height="106" key="GridCell.Tab.0.center" timestamp="1600416467463">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="999" height="137" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600268211684" />
-    <state width="999" height="137" key="GridCell.Tab.0.left" timestamp="1600268211683">
+    <state width="1000" height="106" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
+    <state width="1000" height="106" key="GridCell.Tab.0.left" timestamp="1600416467463">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="999" height="137" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600268211683" />
-    <state width="999" height="137" key="GridCell.Tab.0.right" timestamp="1600268211684">
+    <state width="1000" height="106" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
+    <state width="1000" height="106" key="GridCell.Tab.0.right" timestamp="1600416467463">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="999" height="137" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600268211684" />
-    <state width="779" height="106" key="GridCell.Tab.1.bottom" timestamp="1599657942570">
+    <state width="1000" height="106" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
+    <state width="1000" height="106" key="GridCell.Tab.1.bottom" timestamp="1600416467464">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596977208371" />
-    <state width="779" height="106" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599657942570" />
-    <state width="779" height="106" key="GridCell.Tab.1.center" timestamp="1599657942570">
+    <state width="1000" height="106" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600416467464" />
+    <state width="1000" height="106" key="GridCell.Tab.1.center" timestamp="1600416467464">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="779" height="106" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599657942570" />
-    <state width="779" height="106" key="GridCell.Tab.1.left" timestamp="1599657942570">
+    <state width="1000" height="106" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600416467464" />
+    <state width="1000" height="106" key="GridCell.Tab.1.left" timestamp="1600416467463">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="779" height="106" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599657942570" />
-    <state width="779" height="106" key="GridCell.Tab.1.right" timestamp="1599657942570">
+    <state width="1000" height="106" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
+    <state width="1000" height="106" key="GridCell.Tab.1.right" timestamp="1600416467464">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="779" height="106" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599657942570" />
+    <state width="1000" height="106" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600416467464" />
     <state x="555" y="60" key="SettingsEditor" timestamp="1599654107988">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -332,6 +333,11 @@
           <url>file://$PROJECT_DIR$/practice/asd.py</url>
           <line>1</line>
           <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/2020_07~12/0918/BOJ_2638_치즈.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="101" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
