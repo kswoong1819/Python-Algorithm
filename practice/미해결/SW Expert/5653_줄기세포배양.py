@@ -1,6 +1,6 @@
 import sys
 
-sys.stdin = open('../../2020_07~12.../0713/input.txt')
+sys.stdin = open('../../2020_07~09.../0713/input.txt')
 
 dr = [0, 1, 0, -1]
 dc = [1, 0, -1, 0]
