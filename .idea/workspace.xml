@@ -20,9 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/2020_07~12/0918/BOJ_2638_치즈.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_07~12/0918/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/1007/SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10~12/SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/1007/SWEA.4014. [모의 SW 역량테스트] 활주로 건설.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10~12/SWEA.4014. [모의 SW 역량테스트] 활주로 건설.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/1007/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10~12/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/asd2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,21 +57,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Debugger" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hi\Desktop\TIL\practice\코드잇" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\multicampus\Desktop\etc\TIL\practice\2020_10~12" />
       <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200331" />
       <recent name="C:\Users\Hi\Desktop\TIL\practice\미해결\SW Expert" />
       <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200318" />
       <recent name="C:\Users\Hi\Desktop\TIL\practice\미해결\BOJ" />
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\미해결" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\코드잇" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BOJ_2638_치즈">
+  <component name="RunManager" selected="Python.asd2">
     <configuration name="BOJ_12865_평범한 배낭" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="asd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_10~12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/asd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_10~12/SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,17 +180,17 @@
     <list>
       <item itemvalue="Python.BOJ_12865_평범한 배낭" />
       <item itemvalue="Python.asd2" />
-      <item itemvalue="Python.asd" />
       <item itemvalue="Python.programmers_2_괄호 변환" />
       <item itemvalue="Python.BOJ_2638_치즈" />
+      <item itemvalue="Python.SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.BOJ_2638_치즈" />
         <item itemvalue="Python.asd2" />
+        <item itemvalue="Python.SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스" />
+        <item itemvalue="Python.BOJ_2638_치즈" />
         <item itemvalue="Python.programmers_2_괄호 변환" />
         <item itemvalue="Python.BOJ_12865_평범한 배낭" />
-        <item itemvalue="Python.asd" />
       </list>
     </recent_temporary>
   </component>
@@ -221,50 +224,63 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1000" height="106" key="GridCell.Tab.0.bottom" timestamp="1600416467463">
+    <state width="1515" height="2" key="GridCell.Tab.0.bottom" timestamp="1602141387828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
+    <state width="1515" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387828" />
     <state width="1000" height="106" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
-    <state width="1000" height="106" key="GridCell.Tab.0.center" timestamp="1600416467463">
+    <state width="1515" height="2" key="GridCell.Tab.0.center" timestamp="1602141387828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
+    <state width="1515" height="2" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387828" />
     <state width="1000" height="106" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
-    <state width="1000" height="106" key="GridCell.Tab.0.left" timestamp="1600416467463">
+    <state width="1515" height="2" key="GridCell.Tab.0.left" timestamp="1602141387828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
+    <state width="1515" height="2" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387828" />
     <state width="1000" height="106" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
-    <state width="1000" height="106" key="GridCell.Tab.0.right" timestamp="1600416467463">
+    <state width="1515" height="2" key="GridCell.Tab.0.right" timestamp="1602141387828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
+    <state width="1515" height="2" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387828" />
     <state width="1000" height="106" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
-    <state width="1000" height="106" key="GridCell.Tab.1.bottom" timestamp="1600416467464">
+    <state width="1515" height="2" key="GridCell.Tab.1.bottom" timestamp="1602141387750">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596977208371" />
+    <state width="1515" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387750" />
     <state width="1000" height="106" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600416467464" />
-    <state width="1000" height="106" key="GridCell.Tab.1.center" timestamp="1600416467464">
+    <state width="1515" height="2" key="GridCell.Tab.1.center" timestamp="1602141387750">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
+    <state width="1515" height="2" key="GridCell.Tab.1.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387750" />
     <state width="1000" height="106" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600416467464" />
-    <state width="1000" height="106" key="GridCell.Tab.1.left" timestamp="1600416467463">
+    <state width="1515" height="2" key="GridCell.Tab.1.left" timestamp="1602141387750">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
+    <state width="1515" height="2" key="GridCell.Tab.1.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387750" />
     <state width="1000" height="106" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
-    <state width="1000" height="106" key="GridCell.Tab.1.right" timestamp="1600416467464">
+    <state width="1515" height="2" key="GridCell.Tab.1.right" timestamp="1602141387750">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
+    <state width="1515" height="2" key="GridCell.Tab.1.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387750" />
     <state width="1000" height="106" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600416467464" />
-    <state x="555" y="60" key="SettingsEditor" timestamp="1599654107988">
+    <state x="555" y="60" key="SettingsEditor" timestamp="1602141519455">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="555" y="60" key="SettingsEditor/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141519455" />
     <state x="555" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599654107988" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602139954228">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602139954228" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -338,6 +354,16 @@
           <url>file://$PROJECT_DIR$/practice/2020_07~12/0918/BOJ_2638_치즈.py</url>
           <line>15</line>
           <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/2020_10~12/SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/asd2.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="110" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
