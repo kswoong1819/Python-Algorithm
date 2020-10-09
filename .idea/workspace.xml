@@ -19,13 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
+    <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="1008_0">
+      <change afterPath="$PROJECT_DIR$/practice/2020_10~12/SWEA.2477. [모의 SW 역량테스트] 차량 정비소.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/1007/SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10~12/SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/1007/SWEA.4014. [모의 SW 역량테스트] 활주로 건설.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10~12/SWEA.4014. [모의 SW 역량테스트] 활주로 건설.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/1007/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10~12/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/asd2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10~12/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +38,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1X4BY8vetLf6XERJaMWZJSui41W" />
@@ -71,28 +74,7 @@
       <recent name="C:\Users\Hi\Desktop\TIL\practice\미해결\BOJ" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.asd2">
-    <configuration name="BOJ_12865_평범한 배낭" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_07~12/0830" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_07~12/0830/BOJ_12865_평범한 배낭.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.SWEA.2477. [모의 SW 역량테스트] 차량 정비소">
     <configuration name="BOJ_2638_치즈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,6 +109,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_10~12/SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SWEA.2477. [모의 SW 역량테스트] 차량 정비소" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_10~12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_10~12/SWEA.2477. [모의 SW 역량테스트] 차량 정비소.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,19 +181,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.BOJ_12865_평범한 배낭" />
       <item itemvalue="Python.asd2" />
       <item itemvalue="Python.programmers_2_괄호 변환" />
       <item itemvalue="Python.BOJ_2638_치즈" />
       <item itemvalue="Python.SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스" />
+      <item itemvalue="Python.SWEA.2477. [모의 SW 역량테스트] 차량 정비소" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SWEA.2477. [모의 SW 역량테스트] 차량 정비소" />
         <item itemvalue="Python.asd2" />
         <item itemvalue="Python.SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스" />
         <item itemvalue="Python.BOJ_2638_치즈" />
         <item itemvalue="Python.programmers_2_괄호 변환" />
-        <item itemvalue="Python.BOJ_12865_평범한 배낭" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +209,14 @@
       <option name="presentableId" value="Default" />
       <updated>1579658350710</updated>
     </task>
+    <task id="LOCAL-00001" summary="1008_0">
+      <created>1602141554055</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602141554055</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,60 +234,72 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1008_0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1008_0" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="2" key="GridCell.Tab.0.bottom" timestamp="1602141387828">
+    <state width="880" height="419" key="GridCell.Tab.0.bottom" timestamp="1602228855851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1515" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387828" />
-    <state width="1000" height="106" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
-    <state width="1515" height="2" key="GridCell.Tab.0.center" timestamp="1602141387828">
+    <state width="1515" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141613991" />
+    <state width="880" height="419" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602228855851" />
+    <state width="880" height="419" key="GridCell.Tab.0.center" timestamp="1602228855851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1515" height="2" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387828" />
-    <state width="1000" height="106" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
-    <state width="1515" height="2" key="GridCell.Tab.0.left" timestamp="1602141387828">
+    <state width="1515" height="214" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141613991" />
+    <state width="880" height="419" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602228855851" />
+    <state width="880" height="419" key="GridCell.Tab.0.left" timestamp="1602228855851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1515" height="2" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387828" />
-    <state width="1000" height="106" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
-    <state width="1515" height="2" key="GridCell.Tab.0.right" timestamp="1602141387828">
+    <state width="1515" height="214" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141613991" />
+    <state width="880" height="419" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602228855851" />
+    <state width="880" height="419" key="GridCell.Tab.0.right" timestamp="1602228855851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1515" height="2" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387828" />
-    <state width="1000" height="106" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
-    <state width="1515" height="2" key="GridCell.Tab.1.bottom" timestamp="1602141387750">
+    <state width="1515" height="214" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141613991" />
+    <state width="880" height="419" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602228855851" />
+    <state width="880" height="419" key="GridCell.Tab.1.bottom" timestamp="1602228855851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596977208371" />
-    <state width="1515" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387750" />
-    <state width="1000" height="106" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600416467464" />
-    <state width="1515" height="2" key="GridCell.Tab.1.center" timestamp="1602141387750">
+    <state width="1515" height="214" key="GridCell.Tab.1.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141613991" />
+    <state width="880" height="419" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602228855851" />
+    <state width="880" height="419" key="GridCell.Tab.1.center" timestamp="1602228855851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1515" height="2" key="GridCell.Tab.1.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387750" />
-    <state width="1000" height="106" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600416467464" />
-    <state width="1515" height="2" key="GridCell.Tab.1.left" timestamp="1602141387750">
+    <state width="1515" height="214" key="GridCell.Tab.1.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141613991" />
+    <state width="880" height="419" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602228855851" />
+    <state width="880" height="419" key="GridCell.Tab.1.left" timestamp="1602228855851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1515" height="2" key="GridCell.Tab.1.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387750" />
-    <state width="1000" height="106" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
-    <state width="1515" height="2" key="GridCell.Tab.1.right" timestamp="1602141387750">
+    <state width="1515" height="214" key="GridCell.Tab.1.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141613991" />
+    <state width="880" height="419" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602228855851" />
+    <state width="880" height="419" key="GridCell.Tab.1.right" timestamp="1602228855851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1094" height="2" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1515" height="2" key="GridCell.Tab.1.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387750" />
-    <state width="1000" height="106" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600416467464" />
+    <state width="1515" height="214" key="GridCell.Tab.1.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141613991" />
+    <state width="880" height="419" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602228855851" />
     <state x="555" y="60" key="SettingsEditor" timestamp="1602141519455">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="555" y="60" key="SettingsEditor/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141519455" />
     <state x="555" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599654107988" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602141561333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141561333" />
+    <state x="0" y="0" width="686" height="645" key="dock-window-1" timestamp="1602227521548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="686" height="645" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1602227521548" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602139954228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
