@@ -1,34 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b27d49e8-a985-4f66-ab4b-26a280895ee4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/TIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TIL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_10~12/SWEA.5648. [모의 SW 역량테스트] 원자 소멸 시뮬레이션.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bash.exe.stackdump" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.4014. [모의 SW 역량테스트] 활주로 건설.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.5-script.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.5.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip-script.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.5-script.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.5.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/python.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/python3.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/python35.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/sqlite3.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/tcl86t.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/tk86t.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/vcruntime140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10~12/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/asd2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +58,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스">
+  <component name="RunManager" selected="Python.SWEA.5648. [모의 SW 역량테스트] 원자 소멸 시뮬레이션">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,8 +101,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="SWEA.5648. [모의 SW 역량테스트] 원자 소멸 시뮬레이션" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_10~12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_10~12/SWEA.5648. [모의 SW 역량테스트] 원자 소멸 시뮬레이션.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="asd2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/asd2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SWEA.5648. [모의 SW 역량테스트] 원자 소멸 시뮬레이션" />
+        <item itemvalue="Python.asd2" />
         <item itemvalue="Python.SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스" />
         <item itemvalue="Python.1" />
       </list>
@@ -124,42 +163,61 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="1131" y="275" key="FileChooserDialogImpl" timestamp="1602144224013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1131" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144224013" />
-    <state width="1899" height="181" key="GridCell.Tab.0.bottom" timestamp="1602144422072">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="994" height="38" key="GridCell.Tab.0.bottom" timestamp="1602405679731">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="994" height="38" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602405679731" />
     <state width="1899" height="181" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
-    <state width="1899" height="181" key="GridCell.Tab.0.center" timestamp="1602144422072">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="994" height="38" key="GridCell.Tab.0.center" timestamp="1602405679731">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="994" height="38" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602405679731" />
     <state width="1899" height="181" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
-    <state width="1899" height="181" key="GridCell.Tab.0.left" timestamp="1602144422072">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="994" height="38" key="GridCell.Tab.0.left" timestamp="1602405679731">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="994" height="38" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602405679731" />
     <state width="1899" height="181" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
-    <state width="1899" height="181" key="GridCell.Tab.0.right" timestamp="1602144422072">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="994" height="38" key="GridCell.Tab.0.right" timestamp="1602405679731">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="994" height="38" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602405679731" />
     <state width="1899" height="181" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
-    <state width="1899" height="181" key="GridCell.Tab.1.bottom" timestamp="1602144422073">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="994" height="38" key="GridCell.Tab.1.bottom" timestamp="1602405679731">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="994" height="38" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602405679731" />
     <state width="1899" height="181" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422073" />
-    <state width="1899" height="181" key="GridCell.Tab.1.center" timestamp="1602144422073">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="994" height="38" key="GridCell.Tab.1.center" timestamp="1602405679731">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="994" height="38" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602405679731" />
     <state width="1899" height="181" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422073" />
-    <state width="1899" height="181" key="GridCell.Tab.1.left" timestamp="1602144422072">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="994" height="38" key="GridCell.Tab.1.left" timestamp="1602405679731">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="994" height="38" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602405679731" />
     <state width="1899" height="181" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
-    <state width="1899" height="181" key="GridCell.Tab.1.right" timestamp="1602144422073">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="994" height="38" key="GridCell.Tab.1.right" timestamp="1602405679731">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="994" height="38" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602405679731" />
     <state width="1899" height="181" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422073" />
     <state x="852" y="164" key="SettingsEditor" timestamp="1602143015580">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -175,8 +233,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/practice/2020_10~12/SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스.py</url>
-          <line>30</line>
+          <line>4</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/2020_10~12/SWEA.5648. [모의 SW 역량테스트] 원자 소멸 시뮬레이션.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
