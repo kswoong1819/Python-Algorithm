@@ -1,31 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="">
+    <list default="true" id="b27d49e8-a985-4f66-ab4b-26a280895ee4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/TIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TIL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/1007/SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10~12/SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/1007/SWEA.4014. [모의 SW 역량테스트] 활주로 건설.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10~12/SWEA.4014. [모의 SW 역량테스트] 활주로 건설.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/1007/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10~12/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/asd2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/asd2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bash.exe.stackdump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.4014. [모의 SW 역량테스트] 활주로 건설.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.5-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-3.5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.5-script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/python3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/python35.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/tcl86t.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/tk86t.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/vcruntime140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +38,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="yet_unknown" />
         <option value="Python Script" />
       </list>
     </option>
@@ -43,36 +45,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1X4BY8vetLf6XERJaMWZJSui41W" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1iaO4gEQVWr8Z8szHMf99Uc81NH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Debugger" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\코드잇" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\multicampus\Desktop\etc\TIL\practice\2020_10~12" />
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200331" />
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\미해결\SW Expert" />
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\2020_03\20200318" />
-      <recent name="C:\Users\Hi\Desktop\TIL\practice\미해결\BOJ" />
-    </key>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="TIL" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="TIL" />
+      </console-settings>
+    </option>
   </component>
-  <component name="RunManager" selected="Python.asd2">
-    <configuration name="BOJ_12865_평범한 배낭" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,32 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_07~12/0830" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_10~12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_07~12/0830/BOJ_12865_평범한 배낭.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BOJ_2638_치즈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_07~12/0918" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_07~12/0918/BOJ_2638_치즈.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_10~12/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,244 +106,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="asd2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/asd2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="programmers_2_괄호 변환" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_07~12/0909" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_07~12/0909/programmers_2_괄호 변환.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.BOJ_12865_평범한 배낭" />
-      <item itemvalue="Python.asd2" />
-      <item itemvalue="Python.programmers_2_괄호 변환" />
-      <item itemvalue="Python.BOJ_2638_치즈" />
-      <item itemvalue="Python.SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.asd2" />
         <item itemvalue="Python.SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스" />
-        <item itemvalue="Python.BOJ_2638_치즈" />
-        <item itemvalue="Python.programmers_2_괄호 변환" />
-        <item itemvalue="Python.BOJ_12865_평범한 배낭" />
+        <item itemvalue="Python.1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="24727796-98b8-4deb-8479-d0c5809e8ee5" name="Default Changelist" comment="" />
-      <created>1579658350710</created>
+      <changelist id="b27d49e8-a985-4f66-ab4b-26a280895ee4" name="Default Changelist" comment="" />
+      <created>1602142046916</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1579658350710</updated>
+      <updated>1602142046916</updated>
     </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="2" key="GridCell.Tab.0.bottom" timestamp="1602141387828">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="1131" y="275" key="FileChooserDialogImpl" timestamp="1602144224013">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1094" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1515" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387828" />
-    <state width="1000" height="106" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
-    <state width="1515" height="2" key="GridCell.Tab.0.center" timestamp="1602141387828">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="1131" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144224013" />
+    <state width="1899" height="181" key="GridCell.Tab.0.bottom" timestamp="1602144422072">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1094" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1515" height="2" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387828" />
-    <state width="1000" height="106" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
-    <state width="1515" height="2" key="GridCell.Tab.0.left" timestamp="1602141387828">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="181" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
+    <state width="1899" height="181" key="GridCell.Tab.0.center" timestamp="1602144422072">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1094" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1515" height="2" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387828" />
-    <state width="1000" height="106" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
-    <state width="1515" height="2" key="GridCell.Tab.0.right" timestamp="1602141387828">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="181" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
+    <state width="1899" height="181" key="GridCell.Tab.0.left" timestamp="1602144422072">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1094" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1515" height="2" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387828" />
-    <state width="1000" height="106" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
-    <state width="1515" height="2" key="GridCell.Tab.1.bottom" timestamp="1602141387750">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="181" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
+    <state width="1899" height="181" key="GridCell.Tab.0.right" timestamp="1602144422072">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1094" height="2" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596977208371" />
-    <state width="1515" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387750" />
-    <state width="1000" height="106" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600416467464" />
-    <state width="1515" height="2" key="GridCell.Tab.1.center" timestamp="1602141387750">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="181" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
+    <state width="1899" height="181" key="GridCell.Tab.1.bottom" timestamp="1602144422073">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1094" height="2" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1515" height="2" key="GridCell.Tab.1.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387750" />
-    <state width="1000" height="106" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600416467464" />
-    <state width="1515" height="2" key="GridCell.Tab.1.left" timestamp="1602141387750">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="181" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422073" />
+    <state width="1899" height="181" key="GridCell.Tab.1.center" timestamp="1602144422073">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1094" height="2" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1515" height="2" key="GridCell.Tab.1.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387750" />
-    <state width="1000" height="106" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600416467463" />
-    <state width="1515" height="2" key="GridCell.Tab.1.right" timestamp="1602141387750">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="181" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422073" />
+    <state width="1899" height="181" key="GridCell.Tab.1.left" timestamp="1602144422072">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1094" height="2" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596977208370" />
-    <state width="1515" height="2" key="GridCell.Tab.1.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141387750" />
-    <state width="1000" height="106" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600416467464" />
-    <state x="555" y="60" key="SettingsEditor" timestamp="1602141519455">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="181" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
+    <state width="1899" height="181" key="GridCell.Tab.1.right" timestamp="1602144422073">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="555" y="60" key="SettingsEditor/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602141519455" />
-    <state x="555" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599654107988" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602139954228">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="181" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422073" />
+    <state x="852" y="164" key="SettingsEditor" timestamp="1602143015580">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1602139954228" />
+    <state x="852" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602143015580" />
+    <state x="828" y="252" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602142988540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="252" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602142988540" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/미해결/BOJ/BOJ_16637_괄호 추가하기.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_03/20200312/BOJ_2589_보물섬.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_03/20200316/4613_러시아 국기 같은 깃발 D4.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_03/20200317/1325_효율적인해킹.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_03/20200318/4112_이상한 피라미드 탐험 D5.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_02/20200220/BOJ/6603_로또.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/미해결/SW Expert/4013_특이한 자석.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_03/20200323/BOJ_2636_치즈.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_03/20200331/5102_노드의 거리 D2.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_03/20200331/5102_노드의 거리 D2.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_03/20200331/BOJ_7569_토마토(3차원).py</url>
-          <line>49</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_07~12/0809/BOJ_1966_프린터 큐.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/asd.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="91" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_07~12/0918/BOJ_2638_치즈.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/practice/2020_10~12/SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스.py</url>
           <line>30</line>
-          <option name="timeStamp" value="109" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/asd2.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="110" />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
-      <default-breakpoints>
-        <breakpoint type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
-        </breakpoint>
-      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>
