@@ -1,67 +1,67 @@
+from collections import deque
+
 dr = [0, 1, 0, -1]
 dc = [1, 0, -1, 0]
 
 
-def active_check():
-    nq = []
-    st = 0
-    while st < len(cell):
-        cell[st][2] -= 1
-        if cell[st][2] == 0:
-            r, c, t = cell.pop(st)
-            time = matrix[r][c]
-            matrix[r][c] = -1
-            for i in range(4):
-                nr = r + dr[i]
-                nc = c + dc[i]
-                if matrix[nr][nc] == 0:
-                    nq.append([nr, nc, time])
-        else:
-            st += 1
-    return nq
-
-
-def spread(q):
-    add_cell = []
+def eating(st):
+    global baby
+    q = deque()
+    q.append(st)
+    feed_r, feed_c = 20, 20
+    min_cnt = 500
     while q:
-        r, c, t = q.pop()
-        if matrix[r][c] < t:
-            matrix[r][c] = t
-            add_cell.append([r, c, t])
-            dead_cell.append(t)
-    return add_cell
+        r, c, cnt = q.popleft()
+        if min_cnt < cnt:
+            continue
+        for i in range(4):
+            nr = r + dr[i]
+            nc = c + dc[i]
+            if 0 <= nr < N and 0 <= nc < N and visited[nr][nc] == 0:
+                if area[nr][nc] <= baby:
+                    visited[nr][nc] = 1
+                    q.append([nr, nc, cnt + 1])
+                    if area[nr][nc] != 0 and area[nr][nc] != baby:
+                        if min_cnt >= cnt + 1:
+                            min_cnt = cnt + 1
+                            if feed_r > nr:
+                                feed_r = nr
+                                feed_c = nc
+                            elif feed_r == nr and feed_c > nc:
+                                feed_c = nc
+    if min_cnt == 500:
+        return [0, 0], 0
+    area[feed_r][feed_c] = 9
+    return [feed_r, feed_c], min_cnt
 
 
-def alive_cell():
-    st = 0
-    while st < len(dead_cell):
-        dead_cell[st] -= 1
-        if dead_cell[st] == 0:
-            dead_cell.pop(st)
-        else:
-            st += 1
+N = int(input())
+area = [list(map(int, input().split())) for _ in range(N)]
 
+feed_cnt = 0
+for i in range(N):
+    for j in range(N):
+        if area[i][j] == 9:
+            shark_point = [i, j]
+        if 1 <= area[i][j] <= 6:
+            feed_cnt += 1
 
-T = int(input())
-for t in range(T):
-    N, M, K = map(int, input().split())
-    area = [[0] * K + list(map(int, input().split())) + [0] * K for _ in range(N)]
-    upanddown = [[0] * (2 * K + M) for _ in range(K)]
-    matrix = upanddown + area + upanddown
+baby = 2
+ans = 0
+up = 0
+while feed_cnt:
+    x, y = shark_point[0], shark_point[1]
+    visited = [[0] * N for _ in range(N)]
+    visited[x][y] = 1
+    shark_point, cnt = eating([x, y, 0])
+    if cnt == 0:
+        break
+    up += 1
+    feed_cnt -= 1
+    if baby == up:
+        baby += 1
+        up = 0
+    ans += cnt
+    area[x][y] = 0
 
-    cell = []
-    for i in range(2 * K + N):
-        for j in range(2 * K + M):
-            if matrix[i][j] > 0:
-                cell.append([K + i, K + j, matrix[i][j]])
-
-    dead_cell = []
-    add_cell = []
-    for k in range(1, K + 1):
-        arr = active_check()
-        cell.extend(add_cell)
-        a = sorted(arr, key=lambda x: x[2])
-        add_cell = spread(a)
-        alive_cell()
-
-    print('#{} {}'.format(t + 1, len(add_cell) + len(cell) + len(dead_cell)))
+print(ans)
