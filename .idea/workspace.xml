@@ -26,34 +26,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b27d49e8-a985-4f66-ab4b-26a280895ee4" name="Default Changelist" comment="1015">
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_10836_여왕벌.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_10836_여왕벌.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_13458_시험 감독.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_13458_시험 감독.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_13549_숨바꼭질3(BFS).py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_13549_숨바꼭질3(BFS).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_136236_아기상어.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_136236_아기상어.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_15685_드래곤 커브.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_15685_드래곤 커브.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_15686_치킨배달.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_15686_치킨배달.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_1713_후보 추천하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_1713_후보 추천하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_1937_욕심쟁이 판다(DFS).py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_1937_욕심쟁이 판다(DFS).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_1967_트리의 지름(bfs).py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_1967_트리의 지름(bfs).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_1967_트리의 지름(dijkstra).py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_1967_트리의 지름(dijkstra).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_2174_로봇 시뮬레이션.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_2174_로봇 시뮬레이션.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/Dev-Matching_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/Dev-Matching_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/Dev-Matching_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/Dev-Matching_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/Dev-Matching_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/Dev-Matching_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.10888. 음식배달 D4.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.10888. 음식배달 D4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.1953. [모의 SW 역량테스트] 탈주범 검거.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.1953. [모의 SW 역량테스트] 탈주범 검거.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.2382. [모의 SW 역량테스트] 미생물 격리.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.2382. [모의 SW 역량테스트] 미생물 격리.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.2383. [모의 SW 역량테스트] 점심 식사시간.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.2383. [모의 SW 역량테스트] 점심 식사시간.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.2477. [모의 SW 역량테스트] 차량 정비소.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.2477. [모의 SW 역량테스트] 차량 정비소.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.4014. [모의 SW 역량테스트] 활주로 건설.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.4014. [모의 SW 역량테스트] 활주로 건설.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.5648. [모의 SW 역량테스트] 원자 소멸 시뮬레이션.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.5648. [모의 SW 역량테스트] 원자 소멸 시뮬레이션.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.5653. [모의 SW 역량테스트] 줄기세포배양.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.5653. [모의 SW 역량테스트] 줄기세포배양.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.5656. [모의 SW 역량테스트] 벽돌 깨기.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.5656. [모의 SW 역량테스트] 벽돌 깨기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/pro.10challenge_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/pro.10challenge_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/pro.10challenge_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/pro.10challenge_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/pro.10challenge_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/pro.10challenge_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_10/hackerrank_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_10/hackerrank_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_10/hackerrank_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_10/hackerrank_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/2020_10/hackerrank_6.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +60,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iaO4gEQVWr8Z8szHMf99Uc81NH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -92,7 +70,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
   </component>
@@ -104,28 +81,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BOJ_15686_치킨배달">
-    <configuration name="BOJ_13458_시험 감독" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_10~12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_10~12/BOJ_13458_시험 감독.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.hackerrank_2">
     <configuration name="BOJ_136236_아기상어" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_15685_드래곤 커브" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_2174_로봇 시뮬레이션" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,28 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_10~12/BOJ_15685_드래곤 커브.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BOJ_15686_치킨배달" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_10~12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_10~12/BOJ_15686_치킨배달.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_10~12/BOJ_2174_로봇 시뮬레이션.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,32 +145,59 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hackerrank_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_10/hackerrank_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hackerrank_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_10/hackerrank_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.BOJ_15686_치킨배달" />
-        <item itemvalue="Python.BOJ_15685_드래곤 커브" />
-        <item itemvalue="Python.BOJ_13458_시험 감독" />
+        <item itemvalue="Python.hackerrank_2" />
+        <item itemvalue="Python.hackerrank_6" />
         <item itemvalue="Python.BOJ_136236_아기상어" />
         <item itemvalue="Python.SWEA.5656. [모의 SW 역량테스트] 벽돌 깨기" />
+        <item itemvalue="Python.BOJ_2174_로봇 시뮬레이션" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b27d49e8-a985-4f66-ab4b-26a280895ee4" name="Default Changelist" comment="" />
@@ -285,12 +247,12 @@
                   </entry>
                 </map>
               </option>
-              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1011_4" />
@@ -303,61 +265,49 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="770" y="238" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1602483772545" />
-    <state x="867" y="114" key="CommitChangelistDialog2" timestamp="1603634679811">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="867" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1603634679811" />
     <state x="1131" y="275" key="FileChooserDialogImpl" timestamp="1602144224013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1131" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144224013" />
-    <state width="839" height="169" key="GridCell.Tab.0.bottom" timestamp="1602996958300">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="777" height="158" key="GridCell.Tab.0.bottom" timestamp="1603642030207">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="839" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602996958300" />
-    <state width="1038" height="222" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
+    <state width="777" height="158" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603642030207" />
     <state width="1899" height="181" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
-    <state width="839" height="169" key="GridCell.Tab.0.center" timestamp="1602996958300">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="777" height="158" key="GridCell.Tab.0.center" timestamp="1603642030207">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="839" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602996958300" />
-    <state width="1038" height="222" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
+    <state width="777" height="158" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603642030207" />
     <state width="1899" height="181" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
-    <state width="839" height="169" key="GridCell.Tab.0.left" timestamp="1602996958299">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="777" height="158" key="GridCell.Tab.0.left" timestamp="1603642030207">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="839" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602996958299" />
-    <state width="1038" height="222" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
+    <state width="777" height="158" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603642030207" />
     <state width="1899" height="181" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
-    <state width="839" height="169" key="GridCell.Tab.0.right" timestamp="1602996958300">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="777" height="158" key="GridCell.Tab.0.right" timestamp="1603642030207">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="839" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602996958300" />
-    <state width="1038" height="222" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
+    <state width="777" height="158" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603642030207" />
     <state width="1899" height="181" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
-    <state width="839" height="163" key="GridCell.Tab.1.bottom" timestamp="1602996637786">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="932" height="222" key="GridCell.Tab.1.bottom" timestamp="1603639897105">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="839" height="163" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602996637786" />
-    <state width="1038" height="222" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
+    <state width="932" height="222" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603639897105" />
     <state width="1899" height="181" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422073" />
-    <state width="839" height="163" key="GridCell.Tab.1.center" timestamp="1602996637786">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="932" height="222" key="GridCell.Tab.1.center" timestamp="1603639897105">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="839" height="163" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1602996637786" />
-    <state width="1038" height="222" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
+    <state width="932" height="222" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603639897105" />
     <state width="1899" height="181" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422073" />
-    <state width="839" height="163" key="GridCell.Tab.1.left" timestamp="1602996637786">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="932" height="222" key="GridCell.Tab.1.left" timestamp="1603639897105">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="839" height="163" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1602996637786" />
-    <state width="1038" height="222" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
+    <state width="932" height="222" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603639897105" />
     <state width="1899" height="181" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
-    <state width="839" height="163" key="GridCell.Tab.1.right" timestamp="1602996637786">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="932" height="222" key="GridCell.Tab.1.right" timestamp="1603639897105">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="839" height="163" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1602996637786" />
-    <state width="1038" height="222" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
+    <state width="932" height="222" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603639897105" />
     <state width="1899" height="181" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422073" />
     <state x="509" y="114" key="RollbackChangesDialog" timestamp="1602511101680">
       <screen x="0" y="0" width="1536" height="824" />
@@ -367,11 +317,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="852" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602143015580" />
-    <state x="759" y="187" key="Vcs.Push.Dialog.v2" timestamp="1603634682564">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="607" y="148" key="Vcs.Push.Dialog.v2" timestamp="1602753538725">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="607" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602753538725" />
-    <state x="759" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1603634682564" />
     <state x="581" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602747034248">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -393,17 +342,17 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_10/SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스.py</url>
+          <url>file://$PROJECT_DIR$/practice/2020_10~12/SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스.py</url>
           <line>4</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_10/SWEA.5648. [모의 SW 역량테스트] 원자 소멸 시뮬레이션.py</url>
+          <url>file://$PROJECT_DIR$/practice/2020_10~12/SWEA.5648. [모의 SW 역량테스트] 원자 소멸 시뮬레이션.py</url>
           <line>33</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/practice/2020_10/BOJ_2174_로봇 시뮬레이션.py</url>
+          <url>file://$PROJECT_DIR$/practice/2020_10~12/BOJ_2174_로봇 시뮬레이션.py</url>
           <line>9</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
