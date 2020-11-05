@@ -25,35 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b27d49e8-a985-4f66-ab4b-26a280895ee4" name="Default Changelist" comment="1015">
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_10836_여왕벌.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_10836_여왕벌.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_13458_시험 감독.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_13458_시험 감독.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_13549_숨바꼭질3(BFS).py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_13549_숨바꼭질3(BFS).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_136236_아기상어.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_136236_아기상어.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_15685_드래곤 커브.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_15685_드래곤 커브.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_15686_치킨배달.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_15686_치킨배달.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_1713_후보 추천하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_1713_후보 추천하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_1937_욕심쟁이 판다(DFS).py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_1937_욕심쟁이 판다(DFS).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_1967_트리의 지름(bfs).py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_1967_트리의 지름(bfs).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_1967_트리의 지름(dijkstra).py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_1967_트리의 지름(dijkstra).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/BOJ_2174_로봇 시뮬레이션.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/BOJ_2174_로봇 시뮬레이션.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/Dev-Matching_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/Dev-Matching_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/Dev-Matching_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/Dev-Matching_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/Dev-Matching_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/Dev-Matching_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.10888. 음식배달 D4.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.10888. 음식배달 D4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.1953. [모의 SW 역량테스트] 탈주범 검거.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.1953. [모의 SW 역량테스트] 탈주범 검거.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.2117. [모의 SW 역량테스트] 홈 방범 서비스.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.2382. [모의 SW 역량테스트] 미생물 격리.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.2382. [모의 SW 역량테스트] 미생물 격리.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.2383. [모의 SW 역량테스트] 점심 식사시간.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.2383. [모의 SW 역량테스트] 점심 식사시간.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.2477. [모의 SW 역량테스트] 차량 정비소.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.2477. [모의 SW 역량테스트] 차량 정비소.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.4014. [모의 SW 역량테스트] 활주로 건설.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.4014. [모의 SW 역량테스트] 활주로 건설.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.5648. [모의 SW 역량테스트] 원자 소멸 시뮬레이션.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.5648. [모의 SW 역량테스트] 원자 소멸 시뮬레이션.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.5653. [모의 SW 역량테스트] 줄기세포배양.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.5653. [모의 SW 역량테스트] 줄기세포배양.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/SWEA.5656. [모의 SW 역량테스트] 벽돌 깨기.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/SWEA.5656. [모의 SW 역량테스트] 벽돌 깨기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/pro.10challenge_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/pro.10challenge_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/pro.10challenge_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/pro.10challenge_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_10~12/pro.10challenge_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_10/pro.10challenge_3.py" afterDir="false" />
+    <list default="true" id="b27d49e8-a985-4f66-ab4b-26a280895ee4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/practice/2020_11/pro.11challenge_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +78,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BOJ_15686_치킨배달">
+  <component name="RunManager" selected="Python.pro.11challenge_2">
     <configuration name="BOJ_13458_시험 감독" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,19 +163,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SWEA.5656. [모의 SW 역량테스트] 벽돌 깨기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Algorithm" />
+    <configuration name="pro.11challenge_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_10~12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_10~12/SWEA.5656. [모의 SW 역량테스트] 벽돌 깨기.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\sksk9\Desktop\TIL\practice\2020_11\pro.11challenge_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pro.11challenge_2" />
         <item itemvalue="Python.BOJ_15686_치킨배달" />
         <item itemvalue="Python.BOJ_15685_드래곤 커브" />
         <item itemvalue="Python.BOJ_13458_시험 감독" />
         <item itemvalue="Python.BOJ_136236_아기상어" />
-        <item itemvalue="Python.SWEA.5656. [모의 SW 역량테스트] 벽돌 깨기" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +239,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602753536593</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1025_0">
+      <created>1603634680494</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603634680494</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1025_1">
+      <created>1603634792902</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603634792902</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,45 +284,47 @@
     <MESSAGE value="1011_4" />
     <MESSAGE value="1012_1" />
     <MESSAGE value="1015" />
-    <option name="LAST_COMMIT_MESSAGE" value="1015" />
+    <MESSAGE value="1025_0" />
+    <MESSAGE value="1025_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1025_1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="238" key="#Notifications" timestamp="1602483772545">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="770" y="238" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1602483772545" />
-    <state x="867" y="114" key="CommitChangelistDialog2" timestamp="1603634679811">
+    <state x="867" y="114" key="CommitChangelistDialog2" timestamp="1603634792383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="867" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1603634679811" />
+    <state x="867" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1603634792383" />
     <state x="1131" y="275" key="FileChooserDialogImpl" timestamp="1602144224013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1131" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144224013" />
-    <state width="839" height="169" key="GridCell.Tab.0.bottom" timestamp="1602996958300">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1187" height="279" key="GridCell.Tab.0.bottom" timestamp="1604572745891">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="839" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602996958300" />
     <state width="1038" height="222" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
-    <state width="1899" height="181" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
-    <state width="839" height="169" key="GridCell.Tab.0.center" timestamp="1602996958300">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1187" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1604572745891" />
+    <state width="1187" height="279" key="GridCell.Tab.0.center" timestamp="1604572745890">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="839" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602996958300" />
     <state width="1038" height="222" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
-    <state width="1899" height="181" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
-    <state width="839" height="169" key="GridCell.Tab.0.left" timestamp="1602996958299">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1187" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1604572745890" />
+    <state width="1187" height="279" key="GridCell.Tab.0.left" timestamp="1604572745890">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="839" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602996958299" />
     <state width="1038" height="222" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
-    <state width="1899" height="181" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
-    <state width="839" height="169" key="GridCell.Tab.0.right" timestamp="1602996958300">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1187" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1604572745890" />
+    <state width="1187" height="279" key="GridCell.Tab.0.right" timestamp="1604572745891">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="839" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602996958300" />
     <state width="1038" height="222" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
-    <state width="1899" height="181" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
+    <state width="1187" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1604572745891" />
     <state width="839" height="163" key="GridCell.Tab.1.bottom" timestamp="1602996637786">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -367,11 +357,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="852" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602143015580" />
-    <state x="759" y="187" key="Vcs.Push.Dialog.v2" timestamp="1603634682564">
+    <state x="759" y="187" key="Vcs.Push.Dialog.v2" timestamp="1603634809476">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="607" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602753538725" />
-    <state x="759" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1603634682564" />
+    <state x="759" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1603634809476" />
     <state x="581" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602747034248">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
