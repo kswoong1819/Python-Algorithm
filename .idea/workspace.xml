@@ -26,7 +26,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b27d49e8-a985-4f66-ab4b-26a280895ee4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/2020_11/pro.11challenge_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_11/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_11/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_11/kakao_winter_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/2020_11/kakao_winter_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +71,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -78,70 +81,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pro.11challenge_2">
-    <configuration name="BOJ_13458_시험 감독" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_10~12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_10~12/BOJ_13458_시험 감독.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BOJ_136236_아기상어" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_10~12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_10~12/BOJ_136236_아기상어.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BOJ_15685_드래곤 커브" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_10~12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_10~12/BOJ_15685_드래곤 커브.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.kakao_winter_3">
     <configuration name="BOJ_15686_치킨배달" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,6 +95,69 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_10~12/BOJ_15686_치킨배달.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kakao_winter_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_11/kakao_winter_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kakao_winter_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_11/kakao_winter_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kakao_winter_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\sksk9\Desktop\TIL\practice\2020_11\kakao_winter_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.kakao_winter_3" />
+        <item itemvalue="Python.kakao_winter_2" />
+        <item itemvalue="Python.kakao_winter_1" />
         <item itemvalue="Python.pro.11challenge_2" />
         <item itemvalue="Python.BOJ_15686_치킨배달" />
-        <item itemvalue="Python.BOJ_15685_드래곤 커브" />
-        <item itemvalue="Python.BOJ_13458_시험 감독" />
-        <item itemvalue="Python.BOJ_136236_아기상어" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +256,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603634792902</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1105">
+      <created>1604573626676</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604573626676</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1105">
+      <created>1604573689361</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604573689361</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,69 +303,78 @@
     <MESSAGE value="1015" />
     <MESSAGE value="1025_0" />
     <MESSAGE value="1025_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1025_1" />
+    <MESSAGE value="1105" />
+    <option name="LAST_COMMIT_MESSAGE" value="1105" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="238" key="#Notifications" timestamp="1602483772545">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="770" y="238" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1602483772545" />
-    <state x="867" y="114" key="CommitChangelistDialog2" timestamp="1604573626038">
+    <state x="867" y="114" key="CommitChangelistDialog2" timestamp="1604573688820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="867" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1604573626038" />
+    <state x="867" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1604573688820" />
     <state x="1131" y="275" key="FileChooserDialogImpl" timestamp="1602144224013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1131" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144224013" />
-    <state width="1155" height="279" key="GridCell.Tab.0.bottom" timestamp="1604573660131">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1579" height="196" key="GridCell.Tab.0.bottom" timestamp="1605339851285">
+      <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state width="839" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602996958300" />
     <state width="1038" height="222" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
-    <state width="1155" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1604573660131" />
-    <state width="1155" height="279" key="GridCell.Tab.0.center" timestamp="1604573660130">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1155" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605326894565" />
+    <state width="1579" height="196" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605339851285" />
+    <state width="1579" height="196" key="GridCell.Tab.0.center" timestamp="1605339851285">
+      <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state width="839" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602996958300" />
     <state width="1038" height="222" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
-    <state width="1155" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1604573660130" />
-    <state width="1155" height="279" key="GridCell.Tab.0.left" timestamp="1604573660130">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1155" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605326894565" />
+    <state width="1579" height="196" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605339851285" />
+    <state width="1579" height="196" key="GridCell.Tab.0.left" timestamp="1605339851284">
+      <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state width="839" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602996958299" />
     <state width="1038" height="222" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
-    <state width="1155" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1604573660130" />
-    <state width="1155" height="279" key="GridCell.Tab.0.right" timestamp="1604573660131">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1155" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605326894565" />
+    <state width="1579" height="196" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605339851284" />
+    <state width="1579" height="196" key="GridCell.Tab.0.right" timestamp="1605339851285">
+      <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state width="839" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602996958300" />
     <state width="1038" height="222" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
-    <state width="1155" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1604573660131" />
-    <state width="839" height="163" key="GridCell.Tab.1.bottom" timestamp="1602996637786">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1155" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605326894565" />
+    <state width="1579" height="196" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605339851285" />
+    <state width="1579" height="122" key="GridCell.Tab.1.bottom" timestamp="1605339708440">
+      <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state width="839" height="163" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602996637786" />
     <state width="1038" height="222" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
     <state width="1899" height="181" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422073" />
-    <state width="839" height="163" key="GridCell.Tab.1.center" timestamp="1602996637786">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1579" height="122" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605339708440" />
+    <state width="1579" height="122" key="GridCell.Tab.1.center" timestamp="1605339708440">
+      <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state width="839" height="163" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1602996637786" />
     <state width="1038" height="222" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
     <state width="1899" height="181" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422073" />
-    <state width="839" height="163" key="GridCell.Tab.1.left" timestamp="1602996637786">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1579" height="122" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605339708440" />
+    <state width="1579" height="122" key="GridCell.Tab.1.left" timestamp="1605339708440">
+      <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state width="839" height="163" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1602996637786" />
     <state width="1038" height="222" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
     <state width="1899" height="181" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
-    <state width="839" height="163" key="GridCell.Tab.1.right" timestamp="1602996637786">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1579" height="122" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605339708440" />
+    <state width="1579" height="122" key="GridCell.Tab.1.right" timestamp="1605339708440">
+      <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state width="839" height="163" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1602996637786" />
     <state width="1038" height="222" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602753549932" />
     <state width="1899" height="181" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422073" />
+    <state width="1579" height="122" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605339708440" />
     <state x="1042" y="236" key="MultipleFileMergeDialog" timestamp="1604573672605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -357,19 +383,20 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="509" y="114" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602511101680" />
-    <state x="852" y="164" key="SettingsEditor" timestamp="1602143015580">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2166" y="67" width="998" height="721" key="SettingsEditor" timestamp="1605332768033">
+      <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state x="852" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602143015580" />
+    <state x="2166" y="67" width="998" height="721" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605332768033" />
     <state x="1112" y="235" key="VCS.ChangeListViewerDialog" timestamp="1604573655269">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1112" y="235" key="VCS.ChangeListViewerDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1604573655269" />
-    <state x="759" y="187" key="Vcs.Push.Dialog.v2" timestamp="1604573628243">
+    <state x="759" y="187" key="Vcs.Push.Dialog.v2" timestamp="1604573690982">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="607" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602753538725" />
-    <state x="759" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1604573628243" />
+    <state x="759" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1604573690982" />
     <state x="581" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602747034248">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -404,6 +431,11 @@
           <url>file://$PROJECT_DIR$/practice/2020_10/BOJ_2174_로봇 시뮬레이션.py</url>
           <line>9</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice/2020_11/3.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
