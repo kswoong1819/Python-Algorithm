@@ -14,8 +14,8 @@ def move(matrix):
             if matrix[i][j]:
                 for mi, si, di in matrix[i][j]:
                     si_2 = si % N
-                    nr = (i + (dr[di] * si_2)) % 7
-                    nc = (j + (dc[di] * si_2)) % 7
+                    nr = (i + (dr[di] * si_2)) % N
+                    nc = (j + (dc[di] * si_2)) % N
                     if n_matrix[nr][nc] and [nr, nc] not in overlap:
                         overlap.append([nr, nc])
                     n_matrix[nr][nc].append([mi, si, di])
