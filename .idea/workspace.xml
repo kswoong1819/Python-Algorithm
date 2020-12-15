@@ -25,12 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b27d49e8-a985-4f66-ab4b-26a280895ee4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/2020_11~12/BOJ_20055_컨베이어 벨트 위의 로봇.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/2020_11~12/input.txt" afterDir="false" />
+    <list default="true" id="b27d49e8-a985-4f66-ab4b-26a280895ee4" name="Default Changelist" comment="1211">
+      <change afterPath="$PROJECT_DIR$/sw_test/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sw_test/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sw_test/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_11/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/2020_11~12/BOJ_20056_마법사 상어와 파이어볼.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/2020_11~12/BOJ_20056_마법사 상어와 파이어볼.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,49 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BOJ_20055_컨베이어 벨트 위의 로봇">
+  <component name="RunManager" selected="Python.2">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw_test/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw_test/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="BOJ_20055_컨베이어 벨트 위의 로봇" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,55 +186,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kakao_winter_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/2020_11/kakao_winter_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="kakao_winter_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/2020_11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\sksk9\Desktop\TIL\practice\2020_11\kakao_winter_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2" />
+        <item itemvalue="Python.1" />
         <item itemvalue="Python.BOJ_20055_컨베이어 벨트 위의 로봇" />
         <item itemvalue="Python.BOJ_20056_마법사 상어와 파이어볼" />
         <item itemvalue="Python.asd" />
-        <item itemvalue="Python.kakao_winter_3" />
-        <item itemvalue="Python.kakao_winter_2" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604573689361</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1211">
+      <created>1607709625146</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607709625146</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -295,7 +301,8 @@
     <MESSAGE value="1025_0" />
     <MESSAGE value="1025_1" />
     <MESSAGE value="1105" />
-    <option name="LAST_COMMIT_MESSAGE" value="1105" />
+    <MESSAGE value="1211" />
+    <option name="LAST_COMMIT_MESSAGE" value="1211" />
   </component>
   <component name="WindowStateProjectService">
     <state x="770" y="238" key="#Notifications" timestamp="1602483772545">
@@ -310,60 +317,60 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1131" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144224013" />
-    <state width="744" height="217" key="GridCell.Tab.0.bottom" timestamp="1607707285918">
+    <state width="745" height="217" key="GridCell.Tab.0.bottom" timestamp="1608011879123">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="839" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602996958300" />
-    <state width="744" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607707285918" />
+    <state width="745" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608011879123" />
     <state width="1155" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605326894565" />
     <state width="1579" height="196" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605339851285" />
-    <state width="744" height="217" key="GridCell.Tab.0.center" timestamp="1607707285918">
+    <state width="745" height="217" key="GridCell.Tab.0.center" timestamp="1608011879122">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="839" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602996958300" />
-    <state width="744" height="217" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607707285918" />
+    <state width="745" height="217" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608011879122" />
     <state width="1155" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605326894565" />
     <state width="1579" height="196" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605339851285" />
-    <state width="744" height="217" key="GridCell.Tab.0.left" timestamp="1607707285918">
+    <state width="745" height="217" key="GridCell.Tab.0.left" timestamp="1608011879122">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="839" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602996958299" />
-    <state width="744" height="217" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607707285918" />
+    <state width="745" height="217" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608011879122" />
     <state width="1155" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605326894565" />
     <state width="1579" height="196" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605339851284" />
-    <state width="744" height="217" key="GridCell.Tab.0.right" timestamp="1607707285918">
+    <state width="745" height="217" key="GridCell.Tab.0.right" timestamp="1608011879123">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="839" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602996958300" />
-    <state width="744" height="217" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607707285918" />
+    <state width="745" height="217" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608011879123" />
     <state width="1155" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1605326894565" />
     <state width="1579" height="196" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605339851285" />
-    <state width="744" height="217" key="GridCell.Tab.1.bottom" timestamp="1607707286987">
+    <state width="745" height="217" key="GridCell.Tab.1.bottom" timestamp="1608011879773">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="839" height="163" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602996637786" />
-    <state width="744" height="217" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607707286987" />
+    <state width="745" height="217" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608011879773" />
     <state width="1899" height="181" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422073" />
     <state width="1579" height="122" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605339708440" />
-    <state width="744" height="217" key="GridCell.Tab.1.center" timestamp="1607707286987">
+    <state width="745" height="217" key="GridCell.Tab.1.center" timestamp="1608011879773">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="839" height="163" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1602996637786" />
-    <state width="744" height="217" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607707286987" />
+    <state width="745" height="217" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608011879773" />
     <state width="1899" height="181" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422073" />
     <state width="1579" height="122" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605339708440" />
-    <state width="744" height="217" key="GridCell.Tab.1.left" timestamp="1607707286987">
+    <state width="745" height="217" key="GridCell.Tab.1.left" timestamp="1608011879773">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="839" height="163" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1602996637786" />
-    <state width="744" height="217" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607707286987" />
+    <state width="745" height="217" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608011879773" />
     <state width="1899" height="181" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422072" />
     <state width="1579" height="122" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605339708440" />
-    <state width="744" height="217" key="GridCell.Tab.1.right" timestamp="1607707286987">
+    <state width="745" height="217" key="GridCell.Tab.1.right" timestamp="1608011879773">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="839" height="163" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1602996637786" />
-    <state width="744" height="217" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607707286987" />
+    <state width="745" height="217" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608011879773" />
     <state width="1899" height="181" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602144422073" />
     <state width="1579" height="122" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1605339708440" />
     <state x="1042" y="236" key="MultipleFileMergeDialog" timestamp="1604573672605">
@@ -383,10 +390,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1112" y="235" key="VCS.ChangeListViewerDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1604573655269" />
-    <state x="759" y="187" key="Vcs.Push.Dialog.v2" timestamp="1604573690982">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="607" y="148" key="Vcs.Push.Dialog.v2" timestamp="1607709626961">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="607" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602753538725" />
+    <state x="607" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607709626961" />
     <state x="759" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1604573690982" />
     <state x="581" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602747034248">
       <screen x="0" y="0" width="1536" height="824" />
@@ -396,14 +403,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="828" y="252" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1602142988540" />
-    <state x="225" y="167" width="323" height="572" key="dock-window-1" timestamp="1602487518998">
+    <state x="138" y="147" width="759" height="564" key="dock-window-1" timestamp="1608010211323">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="225" y="167" width="323" height="572" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1602487518998" />
-    <state x="198" y="141" width="438" height="642" key="dock-window-2" timestamp="1602510105221">
+    <state x="138" y="147" width="759" height="564" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1608010211323" />
+    <state x="298" y="140" width="759" height="564" key="dock-window-2" timestamp="1608011928696">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="198" y="141" width="438" height="642" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1602510105221" />
+    <state x="298" y="140" width="759" height="564" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1608011928696" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -432,6 +439,16 @@
           <url>file://$PROJECT_DIR$/practice/2020_11~12/BOJ_20055_컨베이어 벨트 위의 로봇.py</url>
           <line>13</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sw_test/1.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sw_test/2.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
